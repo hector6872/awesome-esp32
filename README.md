@@ -1,0 +1,34 @@
+# Awesome ESP32 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A curated list of awesome ESP32 projects, frameworks, libraries, tools, and resources.
+
+[ESP32](https://www.espressif.com/en/products/socs/esp32) is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth created by Espressif Systems.
+
+# Content
+
+- [Official Resources](#official-resources)
+- [Projects & Showcase](#projects--showcase)
+- [Contributing](#contributing)
+- [License](#license)
+
+# Official Resources
+
+- [Espressif ESP32 Official Page](https://www.espressif.com/en/products/socs/esp32) - Official product landing page.
+- [ESP-IDF Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/) - Official Espressif IoT Development Framework documentation.
+- [Espressif GitHub Organization](https://github.com/espressif) - Official open-source repositories from Espressif Systems.
+
+# Projects & Showcase
+
+# Other Awesome Lists
+
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+
+# Contributing
+
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+# License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
+
+To the extent possible under law, the maintainers have waived all copyright and related or neighboring rights to this work under [CC0 1.0 Universal](LICENSE).
