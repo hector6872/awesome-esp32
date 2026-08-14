@@ -12,6 +12,7 @@
 - [License](#license)
 - [Projects](#projects--showcase)
   - [Aviation & Space Trackers](#aviation--space-trackers)
+  - [Emulators & Retro Gaming](#emulators--retro-gaming)
   - [Smartwatches](#smartwatches)
 
 # Official Resources
@@ -24,6 +25,10 @@
 ## Aviation & Space Trackers
 
 - [AirESP32ace](https://github.com/vmalis/AirESP32ace) - Live tracker and interactive dashboard for flights, weather, satellite passes, and space launches
+
+## Emulators & Retro Gaming
+
+- [Beebem-ESP32-S3](https://github.com/rhys101/Beebem-ESP32-S3) - Port of the BeebEm emulator to run classic BBC Micro and Master 128 software
 
 ## Smartwatches
 
