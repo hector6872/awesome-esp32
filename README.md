@@ -10,6 +10,8 @@
 - [Projects & Showcase](#projects--showcase)
 - [Contributing](#contributing)
 - [License](#license)
+- [Projects](#projects--showcase)
+  - [Aviation & Space Trackers](#aviation--space-trackers)
 
 # Official Resources
 
@@ -18,6 +20,10 @@
 - [Espressif GitHub Organization](https://github.com/espressif) - Official open-source repositories from Espressif Systems.
 
 # Projects & Showcase
+## Aviation & Space Trackers
+
+- [AirESP32ace](https://github.com/vmalis/AirESP32ace) - Live tracker and interactive dashboard for flights, weather, satellite passes, and space launches
+
 
 # Other Awesome Lists
 
