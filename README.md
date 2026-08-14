@@ -12,6 +12,7 @@
 - [License](#license)
 - [Projects](#projects--showcase)
   - [Aviation & Space Trackers](#aviation--space-trackers)
+  - [Smartwatches](#smartwatches)
 
 # Official Resources
 
@@ -24,6 +25,9 @@
 
 - [AirESP32ace](https://github.com/vmalis/AirESP32ace) - Live tracker and interactive dashboard for flights, weather, satellite passes, and space launches
 
+## Smartwatches
+
+- [Tsixom-Watch-Buddy](https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled) - AI-powered smartwatch with cloud integration, voice interaction, a custom graphics engine, and optimized power management
 
 # Other Awesome Lists
 
