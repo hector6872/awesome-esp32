@@ -14,6 +14,7 @@
   - [Aviation & Space Trackers](#aviation--space-trackers)
   - [Emulators & Retro Gaming](#emulators--retro-gaming)
   - [Graphics & Creative Tools](#graphics--creative-tools)
+  - [Physics & Simulations](#physics--simulations)
   - [Smartwatches](#smartwatches)
 
 # Official Resources
@@ -34,6 +35,10 @@
 ## Graphics & Creative Tools
 
 - [TinyDraw](https://github.com/aliceisjustplaying/tinydraw) - Touchscreen sketching and pixel art tool with pressure support, layer management, and image export
+
+## Physics & Simulations
+
+- [esp32-fluidbox](https://github.com/V4C38/esp32-fluidbox) - Real-time interactive 2D fluid and particle physics simulation with accelerometer/touch support for displays
 
 ## Smartwatches
 
