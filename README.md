@@ -13,6 +13,7 @@
 - [Projects](#projects--showcase)
   - [Aviation & Space Trackers](#aviation--space-trackers)
   - [Emulators & Retro Gaming](#emulators--retro-gaming)
+  - [Graphics & Creative Tools](#graphics--creative-tools)
   - [Smartwatches](#smartwatches)
 
 # Official Resources
@@ -29,6 +30,10 @@
 ## Emulators & Retro Gaming
 
 - [Beebem-ESP32-S3](https://github.com/rhys101/Beebem-ESP32-S3) - Port of the BeebEm emulator to run classic BBC Micro and Master 128 software
+
+## Graphics & Creative Tools
+
+- [TinyDraw](https://github.com/aliceisjustplaying/tinydraw) - Touchscreen sketching and pixel art tool with pressure support, layer management, and image export
 
 ## Smartwatches
 
