@@ -11,6 +11,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Projects](#projects--showcase)
+  - [Audio & Sound](#audio--sound)
   - [Aviation & Space Trackers](#aviation--space-trackers)
   - [Emulators & Retro Gaming](#emulators--retro-gaming)
   - [Games & Entertainment](#games--entertainment)
@@ -26,6 +27,10 @@
 - [Espressif GitHub Organization](https://github.com/espressif) - Official open-source repositories from Espressif Systems.
 
 # Projects & Showcase
+## Audio & Sound
+
+- [M5Stack-Lyrebird](https://github.com/sha5b/M5Stack-Lyrebird) - A pocket dawn chorus. 2423 songbird species, synthesized on the device by a physical model of the avian syrinx.
+
 ## Aviation & Space Trackers
 
 - [AirESP32ace](https://github.com/vmalis/AirESP32ace) - Live tracker and interactive dashboard for flights, weather, satellite passes, and space launches
