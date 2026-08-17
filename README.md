@@ -15,6 +15,7 @@
   - [Aviation & Space Trackers](#aviation--space-trackers)
   - [Emulators & Retro Gaming](#emulators--retro-gaming)
   - [Games & Entertainment](#games--entertainment)
+  - [GPS & Navigation](#gps--navigation)
   - [Graphics & Creative Tools](#graphics--creative-tools)
   - [IoT](#iot)
   - [Physics & Simulations](#physics--simulations)
@@ -42,6 +43,10 @@
 ## Games & Entertainment
 
 - [infinite-golf](https://github.com/MikeWilson/infinite-golf) - A procedurally generated mini-golf game with touch aiming and physical swing motion controls
+
+## GPS & Navigation
+
+- [bike-computer-32](https://github.com/lspr98/bike-computer-32) - A simple mini-map based on an ESP32C3 for cycling. Renders a map based on the current position and optionally overlays a GPX-track. Featuring OSM-based offline maps with multi-constellation GNSS-positioning and GPX-track rendering
 
 ## Graphics & Creative Tools
 
