@@ -13,6 +13,7 @@
 - [Projects](#projects--showcase)
   - [Aviation & Space Trackers](#aviation--space-trackers)
   - [Emulators & Retro Gaming](#emulators--retro-gaming)
+  - [Games & Entertainment](#games--entertainment)
   - [Graphics & Creative Tools](#graphics--creative-tools)
   - [Physics & Simulations](#physics--simulations)
   - [Smartwatches](#smartwatches)
@@ -31,6 +32,10 @@
 ## Emulators & Retro Gaming
 
 - [Beebem-ESP32-S3](https://github.com/rhys101/Beebem-ESP32-S3) - Port of the BeebEm emulator to run classic BBC Micro and Master 128 software
+
+## Games & Entertainment
+
+- [infinite-golf](https://github.com/MikeWilson/infinite-golf) - A procedurally generated mini-golf game with touch aiming and physical swing motion controls
 
 ## Graphics & Creative Tools
 
