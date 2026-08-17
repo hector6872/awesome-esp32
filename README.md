@@ -13,6 +13,7 @@
 - [Projects](#projects--showcase)
   - [Audio & Sound](#audio--sound)
   - [Aviation & Space Trackers](#aviation--space-trackers)
+  - [Clocks & Monitors](#clocks--monitors)
   - [Emulators & Retro Gaming](#emulators--retro-gaming)
   - [Games & Entertainment](#games--entertainment)
   - [GPS & Navigation](#gps--navigation)
@@ -35,6 +36,10 @@
 ## Aviation & Space Trackers
 
 - [AirESP32ace](https://github.com/vmalis/AirESP32ace) - Live tracker and interactive dashboard for flights, weather, satellite passes, and space launches
+
+## Clocks & Monitors
+
+- [ASCII-Aquarium](https://github.com/POWER-PILL/ASCII-Aquarium) - Interactive, animated ASCII fish tank and clock for ESP32 Cheap Yellow Display (CYD) boards featuring touch feeding, live creature simulation, and Wi-Fi NTP time sync
 
 ## Emulators & Retro Gaming
 
