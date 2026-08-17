@@ -15,6 +15,7 @@
   - [Emulators & Retro Gaming](#emulators--retro-gaming)
   - [Games & Entertainment](#games--entertainment)
   - [Graphics & Creative Tools](#graphics--creative-tools)
+  - [IoT](#iot)
   - [Physics & Simulations](#physics--simulations)
   - [Smartwatches](#smartwatches)
 
@@ -40,6 +41,10 @@
 ## Graphics & Creative Tools
 
 - [TinyDraw](https://github.com/aliceisjustplaying/tinydraw) - Touchscreen sketching and pixel art tool with pressure support, layer management, and image export
+
+## IoT
+
+- [ESP32-CYD-HAM-Dashboard](https://github.com/HenrysCat/esp32-cyd-ham-dashboard) - A HamClock-inspired ham radio dashboard for the ESP32-2432S028R Cheap Yellow Display
 
 ## Physics & Simulations
 
