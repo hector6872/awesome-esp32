@@ -14,6 +14,7 @@
   - [Audio & Sound](#audio--sound)
   - [Aviation & Space Trackers](#aviation--space-trackers)
   - [Clocks & Monitors](#clocks--monitors)
+  - [Dashboards](#dashboards)
   - [Emulators & Retro Gaming](#emulators--retro-gaming)
   - [Games & Entertainment](#games--entertainment)
   - [GPS & Navigation](#gps--navigation)
@@ -40,6 +41,10 @@
 ## Clocks & Monitors
 
 - [ASCII-Aquarium](https://github.com/POWER-PILL/ASCII-Aquarium) - Interactive, animated ASCII fish tank and clock for ESP32 Cheap Yellow Display (CYD) boards featuring touch feeding, live creature simulation, and Wi-Fi NTP time sync
+
+## Dashboards
+
+- [ESP-DashboardPlus](https://github.com/aaronbeckmann/ESP-DashboardPlus) - Real-time, responsive web dashboard library for ESP32 with WebSocket updates, 16+ customizable card types (charts, gauges, toggles), and built-in OTA/console support
 
 ## Emulators & Retro Gaming
 
