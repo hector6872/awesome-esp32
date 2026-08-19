@@ -8,6 +8,7 @@
 
 - [Official Resources](#official-resources)
 - [Projects & Showcase](#projects--showcase)
+- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 - [License](#license)
 - [Projects](#projects--showcase)
@@ -78,6 +79,10 @@
 # Other Awesome Lists
 
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+
+## ESP32 Awesome Lists
+
+- [s0lness/awesome-esp32](https://github.com/s0lness/awesome-esp32) - Hand-picked ESP32 projects worth building, copying, or watching run.
 
 # Contributing
 
