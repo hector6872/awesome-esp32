@@ -47,6 +47,7 @@
 ## Clocks & Monitors
 
 - [ASCII-Aquarium](https://github.com/POWER-PILL/ASCII-Aquarium) - Interactive, animated ASCII fish tank and clock for ESP32 Cheap Yellow Display (CYD) boards featuring touch feeding, live creature simulation, and Wi-Fi NTP time sync
+- [inksight](https://github.com/datascale-ai/inksight) - A calm e-ink desk companion for ESP32-C3 with web flasher, online configuration, and 24+ modes (weather, briefings, countdowns, memos)
 
 ## Dashboards
 
