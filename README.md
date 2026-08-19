@@ -12,6 +12,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Projects](#projects--showcase)
+  - [AI & Voice Assistants](#ai--voice-assistants)
   - [Audio & Sound](#audio--sound)
   - [Aviation & Space Trackers](#aviation--space-trackers)
   - [Clocks & Monitors](#clocks--monitors)
@@ -31,6 +32,10 @@
 - [Espressif GitHub Organization](https://github.com/espressif) - Official open-source repositories from Espressif Systems.
 
 # Projects & Showcase
+## AI & Voice Assistants
+
+- [chat-stick](https://github.com/steveruizok/chat-stick) - A live speech-to-speech AI chat project powered by the Gemini Live API and Cloudflare Workers
+
 ## Audio & Sound
 
 - [M5Stack-Lyrebird](https://github.com/sha5b/M5Stack-Lyrebird) - A pocket dawn chorus. 2423 songbird species, synthesized on the device by a physical model of the avian syrinx.
