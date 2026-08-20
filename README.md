@@ -21,6 +21,7 @@
   - [Games & Entertainment](#games--entertainment)
   - [GPS & Navigation](#gps--navigation)
   - [Graphics & Creative Tools](#graphics--creative-tools)
+  - [Hardware encryption devices](#hardware-encryption-devices)
   - [IoT](#iot)
   - [Physics & Simulations](#physics--simulations)
   - [Smartwatches](#smartwatches)
@@ -70,6 +71,10 @@
 ## Graphics & Creative Tools
 
 - [TinyDraw](https://github.com/aliceisjustplaying/tinydraw) - Touchscreen sketching and pixel art tool with pressure support, layer management, and image export
+
+## Hardware encryption devices
+
+- [Midbar](https://github.com/Northstrix/Midbar) - Advanced hardware data vault designed to maximize the cost of unauthorized access to its owner's data.
 
 ## IoT
 
