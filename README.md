@@ -48,6 +48,7 @@
 ## Clocks & Monitors
 
 - [ASCII-Aquarium](https://github.com/POWER-PILL/ASCII-Aquarium) - Interactive, animated ASCII fish tank and clock for ESP32 Cheap Yellow Display (CYD) boards featuring touch feeding, live creature simulation, and Wi-Fi NTP time sync
+- [awtrix-ng](https://github.com/Blueforcer/awtrix-ng) - Successor to AWTRIX 3 that turns LED-matrix clocks into networked smart displays with MQTT/HTTP integrations and on-device scripting
 - [inksight](https://github.com/datascale-ai/inksight) - A calm e-ink desk companion for ESP32-C3 with web flasher, online configuration, and 24+ modes (weather, briefings, countdowns, memos)
 
 ## Dashboards
