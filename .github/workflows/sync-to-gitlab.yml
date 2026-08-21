@@ -1,0 +1,23 @@
+name: Sync Repository to GitLab
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repo
+        run: |
+          git clone --bare https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git ${GITHUB_REPOSITORY}.git
+        shell: bash
+      - name: Push to GitLab
+        run: |
+          gitlab_url="https://${GITHUB_REPOSITORY_OWNER}:${{ secrets.GITLAB_PERSONAL_ACCESS_TOKEN }}@gitlab.com/${GITHUB_REPOSITORY}.git"
+          cd ${GITHUB_REPOSITORY}.git
+          git remote add gitlab "$gitlab_url"
+          git push gitlab --mirror --force
+        shell: bash
