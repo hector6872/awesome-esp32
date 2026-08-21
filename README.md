@@ -90,6 +90,7 @@
 
 ## Smartwatches
 
+- [pocket-pet](https://github.com/frolic/pocket-pet) - Pocket-Pikachu-style virtual pet smartwatch for Waveshare ESP32-S3 Touch AMOLED 2.06" featuring step tracking, GBA-style pixel art, and LVGL UI
 - [Tsixom-Watch-Buddy](https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled) - AI-powered smartwatch with cloud integration, voice interaction, a custom graphics engine, and optimized power management
 
 # Other Awesome Lists
