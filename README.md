@@ -83,6 +83,7 @@
 ## IoT
 
 - [ESP32-CYD-HAM-Dashboard](https://github.com/HenrysCat/esp32-cyd-ham-dashboard) - A HamClock-inspired ham radio dashboard for the ESP32-2432S028R Cheap Yellow Display
+- [familybox](https://github.com/F86Pilot/familybox) - A photo-and-voice communication device for Waveshare ESP32-S3 Touch AMOLED 1.8" letting parents and young children exchange photos and voice notes
 
 ## Physics & Simulations
 
