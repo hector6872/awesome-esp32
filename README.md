@@ -60,6 +60,7 @@
 
 ## Games & Entertainment
 
+- [67](https://github.com/canwar-dj/67) - A physical throw-and-catch party game for Waveshare ESP32-S3 Touch AMOLED 2.06" using accelerometer freefall and catch detection
 - [doodlesoul](https://github.com/evandroguedes/doodlesoul) - Procedural digital pet for M5StickC Plus generating a unique hand-drawn companion with boiling-line animation derived from the ESP32 MAC address
 - [gameos](https://github.com/MikeWilson/esp32-gameos) - Handheld game OS and games for Waveshare ESP32-S3 Touch AMOLED 1.8". Pure C on ESP-IDF, zero engines/LVGL, 100% procedural audio and visuals
 - [infinite-golf](https://github.com/MikeWilson/infinite-golf) - A procedurally generated mini-golf game with touch aiming and physical swing motion controls
