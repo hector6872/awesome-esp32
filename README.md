@@ -22,6 +22,7 @@
   - [GPS & Navigation](#gps--navigation)
   - [Graphics & Creative Tools](#graphics--creative-tools)
   - [Hardware encryption devices](#hardware-encryption-devices)
+  - [Input Devices & Remotes](#input-devices--remotes)
   - [IoT](#iot)
   - [Physics & Simulations](#physics--simulations)
   - [Smartwatches](#smartwatches)
@@ -35,7 +36,7 @@
 # Projects & Showcase
 ## AI & Voice Assistants
 
-- [chat-stick](https://github.com/steveruizok/chat-stick) - A live speech-to-speech AI chat project powered by the Gemini Live API and Cloudflare Workers
+- [chat-stick](https://github.com/steveruizok/chat-stick) - A live speech-to-speech AI chat project for M5StickS3 and other ESP32-S3 devices powered by the Gemini Live API and Cloudflare Workers.
 
 ## Audio & Sound
 
@@ -79,6 +80,10 @@
 ## Hardware encryption devices
 
 - [Midbar](https://github.com/Northstrix/Midbar) - Advanced hardware data vault designed to maximize the cost of unauthorized access to its owner's data.
+
+## Input Devices & Remotes
+
+- [m5stickc-plus-presenter](https://github.com/F86Pilot/m5stickc-plus-presenter) - Turns an M5StickC PLUS into a BLE HID slide clicker remote for presentations with on-screen button guides and battery status
 
 ## IoT
 
