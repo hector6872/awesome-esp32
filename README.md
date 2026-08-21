@@ -54,6 +54,7 @@
 ## Dashboards
 
 - [ESP-DashboardPlus](https://github.com/aaronbeckmann/ESP-DashboardPlus) - Real-time, responsive web dashboard library for ESP32 with WebSocket updates, 16+ customizable card types (charts, gauges, toggles), and built-in OTA/console support
+- [HomePoint](https://github.com/sieren/HomePoint) - Screen-based touch interface and dashboard for MQTT & HomeKit-connected smart home devices running on ESP32
 
 ## Emulators & Retro Gaming
 
