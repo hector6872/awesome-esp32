@@ -45,6 +45,11 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
 Create pocket companions, physical party games, and physics-driven desk toys.
 
 - **Physical Party Throw-and-Catch Game**: A hot-potato style party game for Waveshare ESP32-S3 Touch AMOLED 2.06" that detects freefall when tossed and stops random numbers when caught. [67](https://github.com/canwar-dj/67)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <img src="media/67.jpg" width="400" alt="67 preview">
+  </details>
 - **Unique Silicon-Generated Digital Pet**: Procedural companion for M5StickC Plus whose identity, personality, and doodle art style are permanently tied to the chip's unique MAC address with boiling-line animation. [doodlesoul](https://github.com/evandroguedes/doodlesoul)
   <details>
     <summary>🖼️ Preview</summary>
@@ -102,6 +107,11 @@ Build glanceable screens that live on your desk without causing screen fatigue.
 Harness on-device audio and cloud intelligence for speech-driven hardware.
 
 - **Live Speech-to-Speech AI Assistant**: Handheld conversational voice assistant for M5StickS3 and other ESP32-S3 devices powered by Gemini Live API and Cloudflare Workers. [chat-stick](https://github.com/steveruizok/chat-stick)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <img src="media/chat-stick.jpg" width="400" alt="chat-stick preview">
+  </details>
 - **Family Photo & Voice Messenger for Kids**: Photo and voice communicator for Waveshare ESP32-S3 Touch AMOLED 1.8" letting parents and young children exchange photos and voice notes without text. [familybox](https://github.com/F86Pilot/familybox)
   <details>
     <summary>🖼️ Preview</summary>
