@@ -1,103 +1,224 @@
 # Awesome ESP32 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome ESP32 projects, frameworks, libraries, tools, and resources.
+> A curated collection of awesome ESP32 projects, inspiring builds, frameworks, and tools organized by real-world use cases.
 
 [ESP32](https://www.espressif.com/en/products/socs/esp32) is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth created by Espressif Systems.
 
 # Content
 
-- [Official Resources](#official-resources)
-- [Projects & Showcase](#projects--showcase)
+- [Projects & Inspiration](#projects--inspiration)
+  - [🎤 Presentation Remotes & Productivity Tools](#-presentation-remotes--productivity-tools)
+  - [🐱 Virtual Pets, Fidgets & Interactive Toys](#-virtual-pets-fidgets--interactive-toys)
+  - [🕒 Desk Companions, Smart Clocks & Ambient Displays](#-desk-companions-smart-clocks--ambient-displays)
+  - [🗣️ AI Voice Assistants & Communicators](#️-ai-voice-assistants--communicators)
+  - [🎮 Handheld Gaming & Retro Emulation](#-handheld-gaming--retro-emulation)
+  - [🏠 Smart Home Controllers & UI Dashboards](#-smart-home-controllers--ui-dashboards)
+  - [🚴 Outdoor, Sports & Live Trackers](#-outdoor-sports--live-trackers)
+  - [🎨 Creative Drawing & Acoustic Synthesis](#-creative-drawing--acoustic-synthesis)
+  - [🔐 Hardware Security & Private Data Vaults](#-hardware-security--private-data-vaults)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 - [License](#license)
-- [Projects](#projects--showcase)
-  - [AI & Voice Assistants](#ai--voice-assistants)
-  - [Audio & Sound](#audio--sound)
-  - [Aviation & Space Trackers](#aviation--space-trackers)
-  - [Clocks & Monitors](#clocks--monitors)
-  - [Dashboards](#dashboards)
-  - [Emulators & Retro Gaming](#emulators--retro-gaming)
-  - [Games & Entertainment](#games--entertainment)
-  - [GPS & Navigation](#gps--navigation)
-  - [Graphics & Creative Tools](#graphics--creative-tools)
-  - [Hardware encryption devices](#hardware-encryption-devices)
-  - [Input Devices & Remotes](#input-devices--remotes)
-  - [IoT](#iot)
-  - [Physics & Simulations](#physics--simulations)
-  - [Smartwatches](#smartwatches)
 
-# Official Resources
+# Projects & Inspiration
 
-- [Espressif ESP32 Official Page](https://www.espressif.com/en/products/socs/esp32) - Official product landing page.
-- [ESP-IDF Documentation](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/) - Official Espressif IoT Development Framework documentation.
-- [Espressif GitHub Organization](https://github.com/espressif) - Official open-source repositories from Espressif Systems.
+## 🎤 Presentation Remotes & Productivity Tools
 
-# Projects & Showcase
-## AI & Voice Assistants
+Turn a pocket-sized development board into a reliable presentation clicker or input gadget.
 
-- [chat-stick](https://github.com/steveruizok/chat-stick) - A live speech-to-speech AI chat project for M5StickS3 and other ESP32-S3 devices powered by the Gemini Live API and Cloudflare Workers.
+- **Slide Clicker Remote for Talks & Lectures**: Use an M5Stick as a Bluetooth BLE keyboard remote to advance slides on Google Slides, PowerPoint, or Keynote with on-screen button guides and battery status. [m5stickc-plus-presenter](https://github.com/F86Pilot/m5stickc-plus-presenter)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" width="400" alt="m5stickc-plus-presenter preview"></a>
+  </details>
 
-## Audio & Sound
+## 🐱 Virtual Pets, Fidgets & Interactive Toys
 
-- [M5Stack-Lyrebird](https://github.com/sha5b/M5Stack-Lyrebird) - A pocket dawn chorus. 2423 songbird species, synthesized on the device by a physical model of the avian syrinx.
+Create pocket companions, physical party games, and physics-driven desk toys.
 
-## Aviation & Space Trackers
+- **Physical Party Throw-and-Catch Game**: A hot-potato style party game for Waveshare ESP32-S3 Touch AMOLED 2.06" that detects freefall when tossed and stops random numbers when caught. [67](https://github.com/canwar-dj/67)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/canwar-dj/67"><img src="media/67.jpg" width="400" alt="67 preview"></a>
+  </details>
+- **Unique Silicon-Generated Digital Pet**: Procedural companion for M5StickC Plus whose identity, personality, and doodle art style are permanently tied to the chip's unique MAC address with boiling-line animation. [doodlesoul](https://github.com/evandroguedes/doodlesoul)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/evandroguedes/doodlesoul"><img src="media/doodlesoul-1.jpg" width="400" alt="doodlesoul preview 1"></a>
+    <a href="https://github.com/evandroguedes/doodlesoul"><img src="media/doodlesoul-2.gif" width="400" alt="doodlesoul preview 2"></a>
+  </details>
+- **Interactive 2D Fluid & Particle Physics Box**: Sensory fidget simulation where fluid and gravity react to touch and device tilt in real time. [esp32-fluidbox](https://github.com/V4C38/esp32-fluidbox)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/V4C38/esp32-fluidbox"><img src="media/esp32-fluidbox.jpg" width="400" alt="esp32-fluidbox preview"></a>
+  </details>
+- **Schedule-Aware Desk Pet Cat**: Animated pixel-art cat for ESP32-S3 AMOLED boards that learns your daily routines and schedules to seek attention when you are around. [pixelcat](https://github.com/toddsherman/pixelcat)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/toddsherman/pixelcat"><img src="media/pixelcat.jpg" width="400" alt="pixelcat preview"></a>
+  </details>
+- **Step-Counting Virtual Pet Watch**: Pocket-Pikachu-inspired companion for Waveshare ESP32-S3 Touch AMOLED 2.06" that levels up and walks through fields as you log real physical steps. [pocket-pet](https://github.com/frolic/pocket-pet)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/frolic/pocket-pet"><img src="media/pocket-pet-1.jpg" width="400" alt="pocket-pet preview 1"></a>
+    <a href="https://github.com/frolic/pocket-pet"><img src="media/pocket-pet-2.jpg" width="400" alt="pocket-pet preview 2"></a>
+  </details>
 
-- [AirESP32ace](https://github.com/vmalis/AirESP32ace) - Live tracker and interactive dashboard for flights, weather, satellite passes, and space launches
+## 🕒 Desk Companions, Smart Clocks & Ambient Displays
 
-## Clocks & Monitors
+Build glanceable screens that live on your desk without causing screen fatigue.
 
-- [ASCII-Aquarium](https://github.com/POWER-PILL/ASCII-Aquarium) - Interactive, animated ASCII fish tank and clock for ESP32 Cheap Yellow Display (CYD) boards featuring touch feeding, live creature simulation, and Wi-Fi NTP time sync
-- [awtrix-ng](https://github.com/Blueforcer/awtrix-ng) - Successor to AWTRIX 3 that turns LED-matrix clocks into networked smart displays with MQTT/HTTP integrations and on-device scripting
-- [inksight](https://github.com/datascale-ai/inksight) - A calm e-ink desk companion for ESP32-C3 with web flasher, online configuration, and 24+ modes (weather, briefings, countdowns, memos)
+- **Animated ASCII Fish Tank Clock**: Whimsical retro aquarium and clock for ESP32 Cheap Yellow Display (CYD) boards featuring touch feeding, live creature simulation, and Wi-Fi NTP time sync. [ASCII-Aquarium](https://github.com/POWER-PILL/ASCII-Aquarium)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/POWER-PILL/ASCII-Aquarium"><img src="media/ASCII-Aquarium-1.jpg" width="400" alt="ASCII-Aquarium preview 1"></a>
+    <a href="https://github.com/POWER-PILL/ASCII-Aquarium"><img src="media/ASCII-Aquarium-2.jpg" width="400" alt="ASCII-Aquarium preview 2"></a>
+  </details>
+- **Networked LED Pixel Matrix Clock**: Retro pixel display that pulls notifications from Home Assistant, weather alerts, and custom on-device apps with MQTT/HTTP support. [awtrix-ng](https://github.com/Blueforcer/awtrix-ng)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/Blueforcer/awtrix-ng"><img src="media/awtrix-ng.jpg" width="400" alt="awtrix-ng preview"></a>
+  </details>
+- **Calm E-Ink Desk Dashboard**: Battery-friendly paper display for ESP32-C3 showing live weather, reminders, daily quotes, and productivity countdowns with browser setup. [inksight](https://github.com/datascale-ai/inksight)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" width="400" alt="inksight preview 1"></a>
+    <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-2.jpg" width="400" alt="inksight preview 2"></a>
+  </details>
 
-## Dashboards
+## 🗣️ AI Voice Assistants & Communicators
 
-- [ESP-DashboardPlus](https://github.com/aaronbeckmann/ESP-DashboardPlus) - Real-time, responsive web dashboard library for ESP32 with WebSocket updates, 16+ customizable card types (charts, gauges, toggles), and built-in OTA/console support
-- [HomePoint](https://github.com/sieren/HomePoint) - Screen-based touch interface and dashboard for MQTT & HomeKit-connected smart home devices running on ESP32
+Harness on-device audio and cloud intelligence for speech-driven hardware.
 
-## Emulators & Retro Gaming
+- **Live Speech-to-Speech AI Assistant**: Handheld conversational voice assistant for M5StickS3 and other ESP32-S3 devices powered by Gemini Live API and Cloudflare Workers. [chat-stick](https://github.com/steveruizok/chat-stick)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/steveruizok/chat-stick"><img src="media/chat-stick.jpg" width="400" alt="chat-stick preview"></a>
+  </details>
+- **Family Photo & Voice Messenger for Kids**: Photo and voice communicator for Waveshare ESP32-S3 Touch AMOLED 1.8" letting parents and young children exchange photos and voice notes without text. [familybox](https://github.com/F86Pilot/familybox)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" width="300" alt="familybox preview 1"></a>
+    <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-2.jpg" width="400" alt="familybox preview 2"></a>
+  </details>
+- **AI-Powered Smartwatch**: Wearable companion combining voice interaction, cloud AI integration, a custom graphics engine, and power management. [Tsixom-Watch-Buddy](https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-1.gif" width="350" alt="Tsixom-Watch-Buddy preview 1"></a>
+    <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-2.jpg" width="400" alt="Tsixom-Watch-Buddy preview 2"></a>
+  </details>
 
-- [Beebem-ESP32-S3](https://github.com/rhys101/Beebem-ESP32-S3) - Port of the BeebEm emulator to run classic BBC Micro and Master 128 software
+## 🎮 Handheld Gaming & Retro Emulation
 
-## Games & Entertainment
+Build pocket game consoles and relive vintage computers.
 
-- [67](https://github.com/canwar-dj/67) - A physical throw-and-catch party game for Waveshare ESP32-S3 Touch AMOLED 2.06" using accelerometer freefall and catch detection
-- [doodlesoul](https://github.com/evandroguedes/doodlesoul) - Procedural digital pet for M5StickC Plus generating a unique hand-drawn companion with boiling-line animation derived from the ESP32 MAC address
-- [gameos](https://github.com/MikeWilson/esp32-gameos) - Handheld game OS and games for Waveshare ESP32-S3 Touch AMOLED 1.8". Pure C on ESP-IDF, zero engines/LVGL, 100% procedural audio and visuals
-- [infinite-golf](https://github.com/MikeWilson/infinite-golf) - A procedurally generated mini-golf game with touch aiming and physical swing motion controls
-- [pixelcat](https://github.com/toddsherman/pixelcat) - A pixel-art virtual pet cat for ESP32-S3 AMOLED boards featuring animation cycles and on-device models that learn your schedule
+- **Classic 8-Bit Computer Emulation**: Port of the BeebEm emulator to run classic BBC Micro and Master 128 software on ESP32-S3. [Beebem-ESP32-S3](https://github.com/rhys101/Beebem-ESP32-S3)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/rhys101/Beebem-ESP32-S3"><img src="media/Beebem-ESP32-S3-1.jpg" width="400" alt="Beebem-ESP32-S3 preview 1"></a>
+    <a href="https://github.com/rhys101/Beebem-ESP32-S3"><img src="media/Beebem-ESP32-S3-2.jpg" width="400" alt="Beebem-ESP32-S3 preview 2"></a>
+  </details>
+- **Bare-Metal Handheld Game OS**: Minimalist game OS and games for Waveshare ESP32-S3 Touch AMOLED 1.8" written in pure C on ESP-IDF with procedural audio and visuals. [gameos](https://github.com/MikeWilson/esp32-gameos)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-1.jpg" width="350" alt="gameos preview 1"></a>
+    <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-2.jpg" width="350" alt="gameos preview 2"></a>
+  </details>
+- **Procedural Mini-Golf Game**: Procedurally generated mini-golf game with touch aiming and physical swing motion controls. [infinite-golf](https://github.com/MikeWilson/infinite-golf)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/MikeWilson/infinite-golf"><img src="media/infinite-golf-1.jpg" width="350" alt="infinite-golf preview 1"></a>
+    <a href="https://github.com/MikeWilson/infinite-golf"><img src="media/infinite-golf-2.jpg" width="350" alt="infinite-golf preview 2"></a>
+  </details>
 
-## GPS & Navigation
+## 🏠 Smart Home Controllers & UI Dashboards
 
-- [bike-computer-32](https://github.com/lspr98/bike-computer-32) - A simple mini-map based on an ESP32C3 for cycling. Renders a map based on the current position and optionally overlays a GPX-track. Featuring OSM-based offline maps with multi-constellation GNSS-positioning and GPX-track rendering
+Give your smart home physical touchscreens and intuitive controls.
 
-## Graphics & Creative Tools
+- **Real-Time Web Dashboard Library**: Responsive web dashboard library for ESP32 with WebSocket updates, 16+ customizable cards (charts, gauges, toggles), and built-in OTA. [ESP-DashboardPlus](https://github.com/aaronbeckmann/ESP-DashboardPlus)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/aaronbeckmann/ESP-DashboardPlus"><img src="media/ESP-DashboardPlus-1.jpg" width="400" alt="ESP-DashboardPlus preview 1"></a>
+    <a href="https://github.com/aaronbeckmann/ESP-DashboardPlus"><img src="media/ESP-DashboardPlus-2.jpg" width="400" alt="ESP-DashboardPlus preview 2"></a>
+  </details>
+- **Touchscreen Smart Home Hub**: Screen-based interface and dashboard to control HomeKit and MQTT smart lights, switches, and scenes. [HomePoint](https://github.com/sieren/HomePoint)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-1.jpg" width="400" alt="HomePoint preview 1"></a>
+    <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-2.jpg" width="400" alt="HomePoint preview 2"></a>
+  </details>
 
-- [TinyDraw](https://github.com/aliceisjustplaying/tinydraw) - Touchscreen sketching and pixel art tool with pressure support, layer management, and image export
+## 🚴 Outdoor, Sports & Live Trackers
 
-## Hardware encryption devices
+Dedicated offline maps and telemetry for adventures and tracking.
 
-- [Midbar](https://github.com/Northstrix/Midbar) - Advanced hardware data vault designed to maximize the cost of unauthorized access to its owner's data.
+- **Aviation, Satellite & Launch Radar**: Interactive live radar tracking aircraft flights, weather passes, and space rocket launches. [AirESP32ace](https://github.com/vmalis/AirESP32ace)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/vmalis/AirESP32ace"><img src="media/AirESP32ace-1.jpg" width="400" alt="AirESP32ace preview 1"></a>
+    <a href="https://github.com/vmalis/AirESP32ace"><img src="media/AirESP32ace-2.jpg" width="400" alt="AirESP32ace preview 2"></a>
+  </details>
+- **Offline GPS Cycling Computer**: Handlebar mini-map based on ESP32-C3 rendering offline OpenStreetMap maps and GPX routes without internet. [bike-computer-32](https://github.com/lspr98/bike-computer-32)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-1.jpg" width="400" alt="bike-computer-32 preview 1"></a>
+    <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-2.jpg" width="400" alt="bike-computer-32 preview 2"></a>
+  </details>
+- **Ham Radio Station Monitor**: HamClock-inspired dashboard for ESP32 Cheap Yellow Display tracking callsigns, propagation, and solar weather. [ESP32-CYD-HAM-Dashboard](https://github.com/HenrysCat/esp32-cyd-ham-dashboard)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/HenrysCat/esp32-cyd-ham-dashboard"><img src="media/ESP32-CYD-HAM-Dashboard.jpg" width="400" alt="ESP32-CYD-HAM-Dashboard preview"></a>
+  </details>
 
-## Input Devices & Remotes
+## 🎨 Creative Drawing & Acoustic Synthesis
 
-- [m5stickc-plus-presenter](https://github.com/F86Pilot/m5stickc-plus-presenter) - Turns an M5StickC PLUS into a BLE HID slide clicker remote for presentations with on-screen button guides and battery status
+Explore artistic expression and procedural sound generation.
 
-## IoT
+- **Synthesized Bird Song Chorus**: Pocket dawn chorus synthesizing 2423 songbird species natively on-device via acoustic physical modeling. [M5Stack-Lyrebird](https://github.com/sha5b/M5Stack-Lyrebird)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-1.jpg" width="400" alt="M5Stack-Lyrebird preview 1"></a>
+    <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-2.jpg" width="400" alt="M5Stack-Lyrebird preview 2"></a>
+  </details>
+- **Touchscreen Sketching & Pixel Art Studio**: Pocket digital sketchbook with pressure support, layer management, and image export. [TinyDraw](https://github.com/aliceisjustplaying/tinydraw)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-1.jpg" width="350" alt="TinyDraw preview 1"></a>
+    <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-2.jpg" width="350" alt="TinyDraw preview 2"></a>
+  </details>
 
-- [ESP32-CYD-HAM-Dashboard](https://github.com/HenrysCat/esp32-cyd-ham-dashboard) - A HamClock-inspired ham radio dashboard for the ESP32-2432S028R Cheap Yellow Display
-- [familybox](https://github.com/F86Pilot/familybox) - A photo-and-voice communication device for Waveshare ESP32-S3 Touch AMOLED 1.8" letting parents and young children exchange photos and voice notes
+## 🔐 Hardware Security & Private Data Vaults
 
-## Physics & Simulations
+Protect secrets with offline dedicated hardware.
 
-- [esp32-fluidbox](https://github.com/V4C38/esp32-fluidbox) - Real-time interactive 2D fluid and particle physics simulation with accelerometer/touch support for displays
-
-## Smartwatches
-
-- [pocket-pet](https://github.com/frolic/pocket-pet) - Pocket-Pikachu-style virtual pet smartwatch for Waveshare ESP32-S3 Touch AMOLED 2.06" featuring step tracking, GBA-style pixel art, and LVGL UI
-- [Tsixom-Watch-Buddy](https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled) - AI-powered smartwatch with cloud integration, voice interaction, a custom graphics engine, and optimized power management
+- **Air-Gapped Encrypted Password & Data Vault**: Advanced hardware data vault designed to maximize security against unauthorized access to personal data. [Midbar](https://github.com/Northstrix/Midbar)
+  <details open>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" width="400" alt="Midbar preview"></a>
+  </details>
 
 # Other Awesome Lists
 
