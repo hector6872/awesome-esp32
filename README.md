@@ -91,6 +91,7 @@ Build glanceable screens that live on your desk without causing screen fatigue.
   <a href="https://github.com/Blueforcer/awtrix-ng"><img src="media/awtrix-ng.jpg" height="120" alt="awtrix-ng"></a>
   <a href="https://github.com/Meandmybadself/E-Ink-Countdown-Screen"><img src="media/E-Ink-Countdown-Screen.jpg" height="120" alt="E-Ink-Countdown-Screen"></a>
   <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" height="120" alt="inksight"></a>
+  <a href="https://github.com/LJ545/TravelFrame"><img src="media/TravelFrame.jpg" height="120" alt="TravelFrame"></a>
 </p>
 
 - **Animated ASCII Fish Tank Clock**: Whimsical retro aquarium and clock for ESP32 Cheap Yellow Display (CYD) boards featuring touch feeding, live creature simulation, and Wi-Fi NTP time sync. [ASCII-Aquarium](https://github.com/POWER-PILL/ASCII-Aquarium)
@@ -118,6 +119,12 @@ Build glanceable screens that live on your desk without causing screen fatigue.
     <br>
     <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" width="400" alt="inksight preview 1"></a>
     <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-2.jpg" width="400" alt="inksight preview 2"></a>
+  </details>
+- **Self-Hosted E-Ink Travel Milestones Frame**: Digital world map and travel tracker on an 800x480 e-ink display driven by ESP32, highlighting visited countries and live weather. [TravelFrame](https://github.com/LJ545/TravelFrame)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/LJ545/TravelFrame"><img src="media/TravelFrame.jpg" width="400" alt="TravelFrame preview"></a>
   </details>
 
 ## 🗣️ AI Voice Assistants & Communicators
