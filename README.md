@@ -209,6 +209,7 @@ Dedicated offline maps and telemetry for adventures and tracking.
   <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-1.jpg" height="120" alt="bike-computer-32"></a>
   <a href="https://github.com/HenrysCat/esp32-cyd-ham-dashboard"><img src="media/ESP32-CYD-HAM-Dashboard.jpg" height="120" alt="ESP32-CYD-HAM-Dashboard"></a>
   <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" height="120" alt="IceNav-v3"></a>
+  <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" height="120" alt="open-bike-computer"></a>
 </p>
 
 - **Aviation, Satellite & Launch Radar**: Interactive live radar tracking aircraft flights, weather passes, and space rocket launches. [AirESP32ace](https://github.com/vmalis/AirESP32ace)
@@ -237,6 +238,13 @@ Dedicated offline maps and telemetry for adventures and tracking.
     <br>
     <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" width="400" alt="IceNav-v3 preview 1"></a>
     <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-2.jpg" width="400" alt="IceNav-v3 preview 2"></a>
+  </details>
+- **Smart Garmin-Mounted Bike Computer**: Sleek open-source bike computer for Waveshare AMOLED touchscreens featuring Apple Maps turn-by-turn navigation, workout syncing to Apple Health, and sensor connectivity. [open-bike-computer](https://github.com/seichris/open-bike-computer)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" width="400" alt="open-bike-computer preview 1"></a>
+    <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-2.jpg" width="400" alt="open-bike-computer preview 2"></a>
   </details>
 
 ## 🎨 Creative Drawing & Acoustic Synthesis
