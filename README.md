@@ -4,8 +4,15 @@
 
 [ESP32](https://www.espressif.com/en/products/socs/esp32) is a series of low-cost, low-power system on a chip microcontrollers with integrated Wi-Fi and dual-mode Bluetooth created by Espressif Systems.
 
+# Motivation
+
+As modern AI tools and coding assistants dramatically lower the barrier to prototyping embedded software, the biggest challenge is often no longer *how* to build, but *what* to build.
+
+This curated list is designed as a visual catalog of creative possibilities—sparking inspiration, showcasing real-world hardware designs, and serving as a launchpad for your next ESP32 project.
+
 # Content
 
+- [Motivation](#motivation)
 - [Projects & Inspiration](#projects--inspiration)
   - [🎤 Presentation Remotes & Productivity Tools](#-presentation-remotes--productivity-tools)
   - [🐱 Virtual Pets, Fidgets & Interactive Toys](#-virtual-pets-fidgets--interactive-toys)
