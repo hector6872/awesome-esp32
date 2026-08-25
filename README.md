@@ -10,6 +10,7 @@
   - [🎤 Presentation Remotes & Productivity Tools](#-presentation-remotes--productivity-tools)
   - [🐱 Virtual Pets, Fidgets & Interactive Toys](#-virtual-pets-fidgets--interactive-toys)
   - [🕒 Desk Companions, Smart Clocks & Ambient Displays](#-desk-companions-smart-clocks--ambient-displays)
+  - [📖 E-Paper Readers & Digital Books](#-e-paper-readers--digital-books)
   - [🗣️ AI Voice Assistants & Communicators](#️-ai-voice-assistants--communicators)
   - [🎮 Handheld Gaming & Retro Emulation](#-handheld-gaming--retro-emulation)
   - [🏠 Smart Home Controllers & UI Dashboards](#-smart-home-controllers--ui-dashboards)
@@ -125,6 +126,22 @@ Build glanceable screens that live on your desk without causing screen fatigue.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/LJ545/TravelFrame"><img src="media/TravelFrame.jpg" width="400" alt="TravelFrame preview"></a>
+  </details>
+
+## 📖 E-Paper Readers & Digital Books
+
+Build portable e-book readers, EPUB engines, and distraction-free digital paper devices.
+
+<p align="left">
+  <a href="https://github.com/Free-Ink/freeink-sdk"><img src="media/freeink-sdk-1.jpg" height="120" alt="freeink-sdk"></a>
+</p>
+
+- **Hardware-Independent E-Paper Reader & UI SDK**: Modular firmware framework and immediate-mode UI layer (FreeInkUI) for building e-paper book readers (FreeInkBook EPUB engine) across diverse ESP32 e-ink screens. [freeink-sdk](https://github.com/Free-Ink/freeink-sdk)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/Free-Ink/freeink-sdk"><img src="media/freeink-sdk-1.jpg" width="400" alt="freeink-sdk preview 1"></a>
+    <a href="https://github.com/Free-Ink/freeink-sdk"><img src="media/freeink-sdk-2.jpg" width="400" alt="freeink-sdk preview 2"></a>
   </details>
 
 ## 🗣️ AI Voice Assistants & Communicators
