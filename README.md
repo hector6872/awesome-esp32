@@ -1,4 +1,4 @@
-# Awesome ESP32 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-esp32 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 > A curated collection of awesome ESP32 projects, inspiring builds, frameworks, and tools organized by real-world use cases.
 
@@ -331,6 +331,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 # License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 
 To the extent possible under law, the maintainers have waived all copyright and related or neighboring rights to this work under [CC0 1.0 Universal](LICENSE).
