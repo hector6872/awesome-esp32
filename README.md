@@ -24,6 +24,7 @@ This curated list is designed as a visual catalog of creative possibilities—sp
   - [🚴 Outdoor, Sports & Live Trackers](#-outdoor-sports--live-trackers)
   - [🎨 Creative Drawing & Acoustic Synthesis](#-creative-drawing--acoustic-synthesis)
   - [🔐 Hardware Security & Private Data Vaults](#-hardware-security--private-data-vaults)
+  - [💡 Lighting, LED Controllers & Ambient FX](#-lighting-led-controllers--ambient-fx)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 - [License](#license)
@@ -322,6 +323,21 @@ Protect secrets with offline dedicated hardware.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" width="400" alt="Midbar preview"></a>
+  </details>
+
+## 💡 Lighting, LED Controllers & Ambient FX
+
+Build custom addressable LED strip controllers, lighting rigs, and ambient visual effects.
+
+<p align="left">
+  <a href="https://github.com/Northstrix/Lantern"><img src="media/The-Lantern-Project.jpg" height="120" alt="The Lantern Project"></a>
+</p>
+
+- **Wireless Addressable LED Strip Controller**: Lighting controller using an ESP32 with Wii Nunchuk as a wireless handheld remote and an ESP8266 as a receiver to drive addressable RGB strip featuring 32 modes, 14 lock screens, and pairing security. [The Lantern Project](https://github.com/Northstrix/Lantern)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/Northstrix/Lantern"><img src="media/The-Lantern-Project.jpg" width="400" alt="The Lantern Project preview"></a>
   </details>
 
 # Other Awesome Lists
