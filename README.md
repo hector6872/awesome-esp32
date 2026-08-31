@@ -161,6 +161,7 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
   <a href="https://github.com/mso96/ESP32-Codex-agent-device"><img src="media/ESP32-Codex-agent-device.jpg" height="120" alt="ESP32-Codex-agent-device"></a>
   <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" height="120" alt="familybox"></a>
   <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-2.jpg" height="120" alt="Tsixom-Watch-Buddy"></a>
+  <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-1.jpg" height="120" alt="xiaozhi-esp32"></a>
 </p>
 
 - **Live Speech-to-Speech AI Assistant**: Handheld conversational voice assistant for M5StickS3 and other ESP32-S3 devices powered by Gemini Live API and Cloudflare Workers. [chat-stick](https://github.com/steveruizok/chat-stick)
@@ -188,6 +189,13 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
     <br>
     <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-1.gif" width="350" alt="Tsixom-Watch-Buddy preview 1"></a>
     <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-2.jpg" width="400" alt="Tsixom-Watch-Buddy preview 2"></a>
+  </details>
+- **MCP-Based Multimodal AI Chatbot**: Full-duplex conversational voice and vision AI assistant for ESP32 with Model Context Protocol (MCP) tool integration, camera support, and broad board compatibility. [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-1.jpg" width="400" alt="xiaozhi-esp32 preview 1"></a>
+    <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-2.jpg" width="400" alt="xiaozhi-esp32 preview 2"></a>
   </details>
 
 ## 🎮 Handheld Gaming & Retro Emulation
