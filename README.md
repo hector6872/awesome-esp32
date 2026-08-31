@@ -254,6 +254,7 @@ Dedicated offline maps and telemetry for adventures and tracking.
   <a href="https://github.com/vmalis/AirESP32ace"><img src="media/AirESP32ace-1.jpg" height="120" alt="AirESP32ace"></a>
   <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-1.jpg" height="120" alt="bike-computer-32"></a>
   <a href="https://github.com/HenrysCat/esp32-cyd-ham-dashboard"><img src="media/ESP32-CYD-HAM-Dashboard.jpg" height="120" alt="ESP32-CYD-HAM-Dashboard"></a>
+  <a href="https://github.com/MatixYo/ESP32-Plane-Radar"><img src="media/ESP32-Plane-Radar.jpg" height="120" alt="ESP32-Plane-Radar"></a>
   <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" height="120" alt="IceNav-v3"></a>
   <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" height="120" alt="open-bike-computer"></a>
 </p>
@@ -277,6 +278,12 @@ Dedicated offline maps and telemetry for adventures and tracking.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/HenrysCat/esp32-cyd-ham-dashboard"><img src="media/ESP32-CYD-HAM-Dashboard.jpg" width="400" alt="ESP32-CYD-HAM-Dashboard preview"></a>
+  </details>
+- **Circular Live ADS-B Aircraft Sonar Radar**: Standalone plane radar for ESP32-C3 and 1.28" round GC9A01 displays that fetches real-time ADS-B aircraft flight data from adsb.fi with adjustable range presets. [ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/MatixYo/ESP32-Plane-Radar"><img src="media/ESP32-Plane-Radar.jpg" width="400" alt="ESP32-Plane-Radar preview"></a>
   </details>
 - **Multi-GNSS Offline GPS Navigator**: Standalone GPS navigation system with offline OpenStreetMap support (rendered tiles or vector maps), 3D perspective maps, and waypoint routing using LVGL. [IceNav-v3](https://github.com/jgauchia/IceNav-v3)
   <details>
