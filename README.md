@@ -263,6 +263,7 @@ Dedicated offline maps and telemetry for adventures and tracking.
   <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-1.jpg" height="120" alt="bike-computer-32"></a>
   <a href="https://github.com/HenrysCat/esp32-cyd-ham-dashboard"><img src="media/ESP32-CYD-HAM-Dashboard.jpg" height="120" alt="ESP32-CYD-HAM-Dashboard"></a>
   <a href="https://github.com/MatixYo/ESP32-Plane-Radar"><img src="media/ESP32-Plane-Radar.jpg" height="120" alt="ESP32-Plane-Radar"></a>
+  <a href="https://github.com/austinbirch/esp32-vertical-card-compass"><img src="media/esp32-vertical-card-compass.jpg" height="120" alt="esp32-vertical-card-compass"></a>
   <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" height="120" alt="IceNav-v3"></a>
   <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" height="120" alt="open-bike-computer"></a>
 </p>
@@ -292,6 +293,12 @@ Dedicated offline maps and telemetry for adventures and tracking.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/MatixYo/ESP32-Plane-Radar"><img src="media/ESP32-Plane-Radar.jpg" width="400" alt="ESP32-Plane-Radar preview"></a>
+  </details>
+- **Aviation Vertical-Card Magnetic Compass Simulation**: Physics-based vertical-card aircraft compass simulation for M5Stack CoreS3 with tilt compensation, gyro sensor fusion, and realistic pendulous card dynamics. [esp32-vertical-card-compass](https://github.com/austinbirch/esp32-vertical-card-compass)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/austinbirch/esp32-vertical-card-compass"><img src="media/esp32-vertical-card-compass.jpg" width="400" alt="esp32-vertical-card-compass preview"></a>
   </details>
 - **Multi-GNSS Offline GPS Navigator**: Standalone GPS navigation system with offline OpenStreetMap support (rendered tiles or vector maps), 3D perspective maps, and waypoint routing using LVGL. [IceNav-v3](https://github.com/jgauchia/IceNav-v3)
   <details>
