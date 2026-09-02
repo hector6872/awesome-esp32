@@ -353,6 +353,7 @@ Protect secrets with offline dedicated hardware.
 
 <p align="left">
   <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" height="120" alt="Midbar"></a>
+  <a href="https://github.com/PierreGode/WaveshareESP32C6LCD"><img src="media/WaveshareESP32C6LCD.jpg" height="120" alt="WaveshareESP32C6LCD"></a>
 </p>
 
 - **Air-Gapped Encrypted Password & Data Vault**: Advanced hardware data vault designed to maximize security against unauthorized access to personal data. [Midbar](https://github.com/Northstrix/Midbar)
@@ -360,6 +361,12 @@ Protect secrets with offline dedicated hardware.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" width="400" alt="Midbar preview"></a>
+  </details>
+- **Wi-Fi 6 & BLE Proximity & Security Auditor**: Compact wireless activity monitoring suite for Waveshare ESP32-C6 1.47" LCD with Bandwatch (promiscuous mode 802.11 traffic monitor) and BleWatch (BLE proximity meter and vendor vulnerability checker). [WaveshareESP32C6LCD](https://github.com/PierreGode/WaveshareESP32C6LCD)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/PierreGode/WaveshareESP32C6LCD"><img src="media/WaveshareESP32C6LCD.jpg" width="400" alt="WaveshareESP32C6LCD preview"></a>
   </details>
 
 ## 💡 Lighting, LED Controllers & Ambient FX
