@@ -320,9 +320,17 @@ Dedicated offline maps and telemetry for adventures and tracking.
 Explore artistic expression and procedural sound generation.
 
 <p align="left">
+  <a href="https://github.com/Sparkadium/Cheap-Yellow-MP3-Player"><img src="media/Cheap-Yellow-MP3-Player.jpg" height="120" alt="Cheap-Yellow-MP3-Player"></a>
   <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-1.jpg" height="120" alt="M5Stack-Lyrebird"></a>
   <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-1.jpg" height="120" alt="TinyDraw"></a>
 </p>
+
+- **Touchscreen Bluetooth MP3 Player**: iPod-Shuffle-inspired music player for Cheap Yellow Display (ESP32-2432S028) with Bluetooth A2DP audio streaming, touch album browser, and 8-band real-time spectrum visualizer. [Cheap-Yellow-MP3-Player](https://github.com/Sparkadium/Cheap-Yellow-MP3-Player)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/Sparkadium/Cheap-Yellow-MP3-Player"><img src="media/Cheap-Yellow-MP3-Player.jpg" width="400" alt="Cheap-Yellow-MP3-Player preview"></a>
+  </details>
 
 - **Synthesized Bird Song Chorus**: Pocket dawn chorus synthesizing 2423 songbird species natively on-device via acoustic physical modeling. [M5Stack-Lyrebird](https://github.com/sha5b/M5Stack-Lyrebird)
   <details>
