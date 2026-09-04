@@ -321,6 +321,7 @@ Explore artistic expression and procedural sound generation.
 
 <p align="left">
   <a href="https://github.com/Sparkadium/Cheap-Yellow-MP3-Player"><img src="media/Cheap-Yellow-MP3-Player.jpg" height="120" alt="Cheap-Yellow-MP3-Player"></a>
+  <a href="https://github.com/seichris/esp32-spotify-remote"><img src="media/esp32-spotify-remote.jpg" height="120" alt="esp32-spotify-remote"></a>
   <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-1.jpg" height="120" alt="M5Stack-Lyrebird"></a>
   <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-1.jpg" height="120" alt="TinyDraw"></a>
 </p>
@@ -330,6 +331,12 @@ Explore artistic expression and procedural sound generation.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/Sparkadium/Cheap-Yellow-MP3-Player"><img src="media/Cheap-Yellow-MP3-Player.jpg" width="400" alt="Cheap-Yellow-MP3-Player preview"></a>
+  </details>
+- **Touchscreen Spotify Music Remote**: Standalone Wi-Fi Spotify controller for the Waveshare ESP32-S3 Touch AMOLED 2.06" with playback controls, now-playing metadata, album artwork, and PKCE authorization. [esp32-spotify-remote](https://github.com/seichris/esp32-spotify-remote)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/seichris/esp32-spotify-remote"><img src="media/esp32-spotify-remote.jpg" width="400" alt="esp32-spotify-remote preview"></a>
   </details>
 
 - **Synthesized Bird Song Chorus**: Pocket dawn chorus synthesizing 2423 songbird species natively on-device via acoustic physical modeling. [M5Stack-Lyrebird](https://github.com/sha5b/M5Stack-Lyrebird)
