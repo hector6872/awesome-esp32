@@ -283,6 +283,7 @@ Dedicated offline maps and telemetry for adventures and tracking.
 <p align="left">
   <a href="https://github.com/vmalis/AirESP32ace"><img src="media/AirESP32ace-1.jpg" height="120" alt="AirESP32ace"></a>
   <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-1.jpg" height="120" alt="bike-computer-32"></a>
+  <a href="https://github.com/khlebobul/esp_ble_finder"><img src="media/esp_ble_finder.jpg" height="120" alt="esp_ble_finder"></a>
   <a href="https://github.com/HenrysCat/esp32-cyd-ham-dashboard"><img src="media/ESP32-CYD-HAM-Dashboard.jpg" height="120" alt="ESP32-CYD-HAM-Dashboard"></a>
   <a href="https://github.com/MatixYo/ESP32-Plane-Radar"><img src="media/ESP32-Plane-Radar.jpg" height="120" alt="ESP32-Plane-Radar"></a>
   <a href="https://github.com/austinbirch/esp32-vertical-card-compass"><img src="media/esp32-vertical-card-compass.jpg" height="120" alt="esp32-vertical-card-compass"></a>
@@ -303,6 +304,12 @@ Dedicated offline maps and telemetry for adventures and tracking.
     <br>
     <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-1.jpg" width="400" alt="bike-computer-32 preview 1"></a>
     <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-2.jpg" width="400" alt="bike-computer-32 preview 2"></a>
+  </details>
+- **Proximity-Based BLE Hunter & Phone Finder**: Visual and acoustic BLE device locator for Waveshare ESP32-S3 Touch AMOLED 1.8" with dotted RSSI tracking and dynamic parking-sensor audio clicks. [esp_ble_finder](https://github.com/khlebobul/esp_ble_finder)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/khlebobul/esp_ble_finder"><img src="media/esp_ble_finder.jpg" width="400" alt="esp_ble_finder preview"></a>
   </details>
 - **Ham Radio Station Monitor**: HamClock-inspired dashboard for ESP32 Cheap Yellow Display tracking callsigns, propagation, and solar weather. [ESP32-CYD-HAM-Dashboard](https://github.com/HenrysCat/esp32-cyd-ham-dashboard)
   <details>
