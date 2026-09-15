@@ -107,6 +107,7 @@ Build glanceable screens that live on your desk without causing screen fatigue.
   <a href="https://github.com/Blueforcer/awtrix-ng"><img src="media/awtrix-ng.jpg" height="120" alt="awtrix-ng"></a>
   <a href="https://github.com/Meandmybadself/E-Ink-Countdown-Screen"><img src="media/E-Ink-Countdown-Screen.jpg" height="120" alt="E-Ink-Countdown-Screen"></a>
   <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" height="120" alt="inksight"></a>
+  <a href="https://github.com/AideaHandesen-dvs/tempmeter"><img src="media/tempmeter.jpg" height="120" alt="tempmeter"></a>
   <a href="https://github.com/LJ545/TravelFrame"><img src="media/TravelFrame.jpg" height="120" alt="TravelFrame"></a>
 </p>
 
@@ -135,6 +136,12 @@ Build glanceable screens that live on your desk without causing screen fatigue.
     <br>
     <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" width="400" alt="inksight preview 1"></a>
     <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-2.jpg" width="400" alt="inksight preview 2"></a>
+  </details>
+- **Minimalist Room Thermometer & Web Sensor**: Low-cost ambient room monitor for ESP32-C3 SuperMini with BME280 sensor, 4-digit 7-segment display, captive portal Wi-Fi setup, and local HTTP/JSON endpoints. [tempmeter](https://github.com/AideaHandesen-dvs/tempmeter)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/AideaHandesen-dvs/tempmeter"><img src="media/tempmeter.jpg" width="400" alt="tempmeter preview"></a>
   </details>
 - **Self-Hosted E-Ink Travel Milestones Frame**: Digital world map and travel tracker on an 800x480 e-ink display driven by ESP32, highlighting visited countries and live weather. [TravelFrame](https://github.com/LJ545/TravelFrame)
   <details>
