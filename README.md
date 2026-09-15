@@ -158,6 +158,7 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
 
 <p align="left">
   <a href="https://github.com/steveruizok/chat-stick"><img src="media/chat-stick.jpg" height="120" alt="chat-stick"></a>
+  <a href="https://github.com/seichris/codex-microphone"><img src="media/codex-microphone-1.jpg" height="120" alt="codex-microphone"></a>
   <a href="https://github.com/mso96/ESP32-Codex-agent-device"><img src="media/ESP32-Codex-agent-device.jpg" height="120" alt="ESP32-Codex-agent-device"></a>
   <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" height="120" alt="familybox"></a>
   <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-2.jpg" height="120" alt="Tsixom-Watch-Buddy"></a>
@@ -169,6 +170,13 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/steveruizok/chat-stick"><img src="media/chat-stick.jpg" width="400" alt="chat-stick preview"></a>
+  </details>
+- **Desktop AI Task Dictation Microphone & Companion**: Hardware desk companion for Waveshare ESP32-S3 Touch AMOLED 2.06" displaying pinned Codex threads and serving as a privacy-gated USB / Wi-Fi voice microphone. [codex-microphone](https://github.com/seichris/codex-microphone)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/seichris/codex-microphone"><img src="media/codex-microphone-1.jpg" width="400" alt="codex-microphone preview 1"></a>
+    <a href="https://github.com/seichris/codex-microphone"><img src="media/codex-microphone-2.jpg" width="400" alt="codex-microphone preview 2"></a>
   </details>
 - **Physical AI Coding Agent Status Device**: Hardware status monitor and procedural avatar for Waveshare ESP32-S3 Touch AMOLED 1.8" that mirrors the lifecycle and token telemetry of local Codex AI tasks. [ESP32-Codex-agent-device](https://github.com/mso96/ESP32-Codex-agent-device)
   <details>
