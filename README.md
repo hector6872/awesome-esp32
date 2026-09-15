@@ -36,9 +36,16 @@ This curated list is designed as a visual catalog of creative possibilities—sp
 Turn a pocket-sized development board into a reliable presentation clicker or input gadget.
 
 <p align="left">
+  <a href="https://github.com/s-iwaki-d/ESP32Drop"><img src="media/ESP32Drop.jpg" height="120" alt="ESP32Drop"></a>
   <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" height="120" alt="m5stickc-plus-presenter"></a>
 </p>
 
+- **AirDrop Protocol Implementation (AWDL)**: Native Apple Wireless Direct Link (AWDL) and AirDrop-compatible library for ESP32-S3 to transfer photos and files directly to and from iPhones and Macs without Wi-Fi routers or pairing. [ESP32Drop](https://github.com/s-iwaki-d/ESP32Drop)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/s-iwaki-d/ESP32Drop"><img src="media/ESP32Drop.jpg" width="400" alt="ESP32Drop preview"></a>
+  </details>
 - **Slide Clicker Remote for Talks & Lectures**: Use an M5Stick as a Bluetooth BLE keyboard remote to advance slides on Google Slides, PowerPoint, or Keynote with on-screen button guides and battery status. [m5stickc-plus-presenter](https://github.com/F86Pilot/m5stickc-plus-presenter)
   <details>
     <summary>🖼️ Preview</summary>
