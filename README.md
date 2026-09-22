@@ -303,6 +303,7 @@ Dedicated offline maps and telemetry for adventures and tracking.
   <a href="https://github.com/MatixYo/ESP32-Plane-Radar"><img src="media/ESP32-Plane-Radar.jpg" height="120" alt="ESP32-Plane-Radar"></a>
   <a href="https://github.com/austinbirch/esp32-vertical-card-compass"><img src="media/esp32-vertical-card-compass.jpg" height="120" alt="esp32-vertical-card-compass"></a>
   <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" height="120" alt="IceNav-v3"></a>
+  <a href="https://github.com/meshtastic/firmware"><img src="media/meshtastic-firmware.jpg" height="120" alt="meshtastic-firmware"></a>
   <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" height="120" alt="open-bike-computer"></a>
   <a href="https://github.com/JO3ALT/TinySSTV"><img src="media/TinySSTV.jpg" height="120" alt="TinySSTV"></a>
 </p>
@@ -351,6 +352,12 @@ Dedicated offline maps and telemetry for adventures and tracking.
     <br>
     <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" width="400" alt="IceNav-v3 preview 1"></a>
     <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-2.jpg" width="400" alt="IceNav-v3 preview 2"></a>
+  </details>
+- **Decentralized LoRa Mesh Communicator & GPS Telemetry**: Open-source, off-grid mesh communication firmware for ESP32 and LoRa radios providing encrypted long-range messaging, GPS telemetry, and packet routing without cell service. [meshtastic-firmware](https://github.com/meshtastic/firmware)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/meshtastic/firmware"><img src="media/meshtastic-firmware.jpg" width="400" alt="meshtastic-firmware preview"></a>
   </details>
 - **Smart Garmin-Mounted Bike Computer**: Sleek open-source bike computer for Waveshare AMOLED touchscreens featuring Apple Maps turn-by-turn navigation, workout syncing to Apple Health, and sensor connectivity. [open-bike-computer](https://github.com/seichris/open-bike-computer)
   <details>
