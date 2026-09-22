@@ -296,6 +296,7 @@ Dedicated offline maps and telemetry for adventures and tracking.
   <a href="https://github.com/austinbirch/esp32-vertical-card-compass"><img src="media/esp32-vertical-card-compass.jpg" height="120" alt="esp32-vertical-card-compass"></a>
   <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" height="120" alt="IceNav-v3"></a>
   <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" height="120" alt="open-bike-computer"></a>
+  <a href="https://github.com/JO3ALT/TinySSTV"><img src="media/TinySSTV.jpg" height="120" alt="TinySSTV"></a>
 </p>
 
 - **Aviation, Satellite & Launch Radar**: Interactive live radar tracking aircraft flights, weather passes, and space rocket launches. [AirESP32ace](https://github.com/vmalis/AirESP32ace)
@@ -349,6 +350,12 @@ Dedicated offline maps and telemetry for adventures and tracking.
     <br>
     <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" width="400" alt="open-bike-computer preview 1"></a>
     <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-2.jpg" width="400" alt="open-bike-computer preview 2"></a>
+  </details>
+- **Standalone Martin M1 SSTV Transmitter**: Standalone Slow Scan Television (SSTV) transmitter firmware written in Rust for ESP32-C3 that encodes web-uploaded photos into precise 115s analog audio tones directly on GPIO without external codecs or DACs. [TinySSTV](https://github.com/JO3ALT/TinySSTV)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/JO3ALT/TinySSTV"><img src="media/TinySSTV.jpg" width="400" alt="TinySSTV preview"></a>
   </details>
 
 ## 🎨 Creative Drawing & Acoustic Synthesis
