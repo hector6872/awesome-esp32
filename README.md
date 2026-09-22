@@ -38,6 +38,7 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
 <p align="left">
   <a href="https://github.com/s-iwaki-d/ESP32Drop"><img src="media/ESP32Drop.jpg" height="120" alt="ESP32Drop"></a>
   <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" height="120" alt="m5stickc-plus-presenter"></a>
+  <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" height="120" alt="The-Badge"></a>
 </p>
 
 - **AirDrop Protocol Implementation (AWDL)**: Native Apple Wireless Direct Link (AWDL) and AirDrop-compatible library for ESP32-S3 to transfer photos and files directly to and from iPhones and Macs without Wi-Fi routers or pairing. [ESP32Drop](https://github.com/s-iwaki-d/ESP32Drop)
@@ -51,6 +52,13 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" width="400" alt="m5stickc-plus-presenter preview"></a>
+  </details>
+- **Wearable Round AMOLED Air Mouse & Productivity Badge**: Multi-function wearable firmware for the CNC-cased Waveshare ESP32-S3 Touch AMOLED 1.75C featuring a BLE air mouse/trackpad, voice recorder, clock, and water physics fidgets. [The-Badge](https://github.com/curisama/The-Badge)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" width="400" alt="The-Badge preview 1"></a>
+    <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-2.jpg" width="400" alt="The-Badge preview 2"></a>
   </details>
 
 ## 🐱 Virtual Pets, Fidgets & Interactive Toys
