@@ -274,6 +274,7 @@ Give your smart home physical touchscreens and intuitive controls.
 <p align="left">
   <a href="https://github.com/aaronbeckmann/ESP-DashboardPlus"><img src="media/ESP-DashboardPlus-1.jpg" height="120" alt="ESP-DashboardPlus"></a>
   <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-1.jpg" height="120" alt="HomePoint"></a>
+  <a href="https://github.com/zigbee-rs/zigbee-rs"><img src="media/zigbee-rs.jpg" height="120" alt="zigbee-rs"></a>
 </p>
 
 - **Real-Time Web Dashboard Library**: Responsive web dashboard library for ESP32 with WebSocket updates, 16+ customizable cards (charts, gauges, toggles), and built-in OTA. [ESP-DashboardPlus](https://github.com/aaronbeckmann/ESP-DashboardPlus)
@@ -289,6 +290,12 @@ Give your smart home physical touchscreens and intuitive controls.
     <br>
     <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-1.jpg" width="400" alt="HomePoint preview 1"></a>
     <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-2.jpg" width="400" alt="HomePoint preview 2"></a>
+  </details>
+- **Pure-Rust Zigbee 3.0 Protocol Stack**: Native `no-std` Zigbee stack and Cluster Library in Rust with ESP32-C6/H2 support, enabling custom low-power Zigbee sensors, sniffers, and home automation nodes. [zigbee-rs](https://github.com/zigbee-rs/zigbee-rs)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/zigbee-rs/zigbee-rs"><img src="media/zigbee-rs.jpg" width="400" alt="zigbee-rs preview"></a>
   </details>
 
 ## 🚴 Outdoor, Sports & Live Trackers
