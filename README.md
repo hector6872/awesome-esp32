@@ -39,6 +39,7 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
   <a href="https://github.com/s-iwaki-d/ESP32Drop"><img src="media/ESP32Drop.jpg" height="120" alt="ESP32Drop"></a>
   <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" height="120" alt="m5stickc-plus-presenter"></a>
   <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" height="120" alt="The-Badge"></a>
+  <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-1.jpg" height="120" alt="unidex"></a>
 </p>
 
 - **AirDrop Protocol Implementation (AWDL)**: Native Apple Wireless Direct Link (AWDL) and AirDrop-compatible library for ESP32-S3 to transfer photos and files directly to and from iPhones and Macs without Wi-Fi routers or pairing. [ESP32Drop](https://github.com/s-iwaki-d/ESP32Drop)
@@ -59,6 +60,13 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
     <br>
     <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" width="400" alt="The-Badge preview 1"></a>
     <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-2.jpg" width="400" alt="The-Badge preview 2"></a>
+  </details>
+- **Pocket E-Paper OS & Productivity Companion**: Multi-feature pocket e-ink OS for Waveshare ESP32-S3 1.54" featuring timetable countdowns with calendar sync, voice notes to Obsidian, peer-to-peer interactive pets, and digital name badges. [unidex](https://github.com/Forrest404/unidex)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-1.jpg" width="400" alt="unidex preview 1"></a>
+    <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-2.jpg" width="400" alt="unidex preview 2"></a>
   </details>
 
 ## 🐱 Virtual Pets, Fidgets & Interactive Toys
