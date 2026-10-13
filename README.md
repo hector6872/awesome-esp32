@@ -122,6 +122,7 @@ Build glanceable screens that live on your desk without causing screen fatigue.
   <a href="https://github.com/POWER-PILL/ASCII-Aquarium"><img src="media/ASCII-Aquarium-1.jpg" height="120" alt="ASCII-Aquarium"></a>
   <a href="https://github.com/Blueforcer/awtrix-ng"><img src="media/awtrix-ng.jpg" height="120" alt="awtrix-ng"></a>
   <a href="https://github.com/Meandmybadself/E-Ink-Countdown-Screen"><img src="media/E-Ink-Countdown-Screen.jpg" height="120" alt="E-Ink-Countdown-Screen"></a>
+  <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-1.jpg" height="120" alt="esp_pomodoro_timer"></a>
   <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" height="120" alt="inksight"></a>
   <a href="https://github.com/VolosR/meterClock"><img src="media/meterClock.jpg" height="120" alt="meterClock"></a>
   <a href="https://github.com/AideaHandesen-dvs/tempmeter"><img src="media/tempmeter.jpg" height="120" alt="tempmeter"></a>
@@ -146,6 +147,13 @@ Build glanceable screens that live on your desk without causing screen fatigue.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/Meandmybadself/E-Ink-Countdown-Screen"><img src="media/E-Ink-Countdown-Screen.jpg" width="400" alt="E-Ink-Countdown-Screen preview"></a>
+  </details>
+- **Orientation-Controlled Cube Pomodoro Timer**: Desk productivity timer for Waveshare ESP32-S3 Touch AMOLED 1.8" using a QMI8658 accelerometer to select 5, 10, 30, or 60-minute focus durations by standing the device on each side edge. [esp_pomodoro_timer](https://github.com/khlebobul/esp_pomodoro_timer)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-1.jpg" width="400" alt="esp_pomodoro_timer preview 1"></a>
+    <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-2.jpg" width="400" alt="esp_pomodoro_timer preview 2"></a>
   </details>
 - **Calm E-Ink Desk Dashboard**: Battery-friendly paper display for ESP32-C3 showing live weather, reminders, daily quotes, and productivity countdowns with browser setup. [inksight](https://github.com/datascale-ai/inksight)
   <details>
