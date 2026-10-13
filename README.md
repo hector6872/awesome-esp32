@@ -400,12 +400,19 @@ Dedicated offline maps and telemetry for adventures and tracking.
 Explore artistic expression and procedural sound generation.
 
 <p align="left">
+  <a href="https://github.com/TechTalkies/YouTube/tree/main/122_ColorPicker"><img src="media/122_ColorPicker.jpg" height="120" alt="122_ColorPicker"></a>
   <a href="https://github.com/Sparkadium/Cheap-Yellow-MP3-Player"><img src="media/Cheap-Yellow-MP3-Player.jpg" height="120" alt="Cheap-Yellow-MP3-Player"></a>
   <a href="https://github.com/seichris/esp32-spotify-remote"><img src="media/esp32-spotify-remote.jpg" height="120" alt="esp32-spotify-remote"></a>
   <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-1.jpg" height="120" alt="M5Stack-Lyrebird"></a>
   <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-1.jpg" height="120" alt="TinyDraw"></a>
 </p>
 
+- **Handheld Real-Life Optical Color Picker**: Portable color-sampling wand for Xiao ESP32-S3 with a TCS34725 sensor and 1.47" ST7789 display that scans physical objects to display live RGB/HEX values with non-volatile history saving. [122_ColorPicker](https://github.com/TechTalkies/YouTube/tree/main/122_ColorPicker)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/TechTalkies/YouTube/tree/main/122_ColorPicker"><img src="media/122_ColorPicker.jpg" width="400" alt="122_ColorPicker preview"></a>
+  </details>
 - **Touchscreen Bluetooth MP3 Player**: iPod-Shuffle-inspired music player for Cheap Yellow Display (ESP32-2432S028) with Bluetooth A2DP audio streaming, touch album browser, and 8-band real-time spectrum visualizer. [Cheap-Yellow-MP3-Player](https://github.com/Sparkadium/Cheap-Yellow-MP3-Player)
   <details>
     <summary>🖼️ Preview</summary>
