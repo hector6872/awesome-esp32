@@ -121,6 +121,7 @@ Build glanceable screens that live on your desk without causing screen fatigue.
 <p align="left">
   <a href="https://github.com/POWER-PILL/ASCII-Aquarium"><img src="media/ASCII-Aquarium-1.jpg" height="120" alt="ASCII-Aquarium"></a>
   <a href="https://github.com/Blueforcer/awtrix-ng"><img src="media/awtrix-ng.jpg" height="120" alt="awtrix-ng"></a>
+  <a href="https://github.com/iammartinj/bird-feeder-esp32"><img src="media/bird-feeder-esp32-1.jpg" height="120" alt="bird-feeder-esp32"></a>
   <a href="https://github.com/Meandmybadself/E-Ink-Countdown-Screen"><img src="media/E-Ink-Countdown-Screen.jpg" height="120" alt="E-Ink-Countdown-Screen"></a>
   <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-2.jpg" height="120" alt="esp_busy_tag"></a>
   <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-1.jpg" height="120" alt="esp_pomodoro_timer"></a>
@@ -142,6 +143,13 @@ Build glanceable screens that live on your desk without causing screen fatigue.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/Blueforcer/awtrix-ng"><img src="media/awtrix-ng.jpg" width="400" alt="awtrix-ng preview"></a>
+  </details>
+- **Simulated Garden Bird Feeder & Living Nature Window**: Ambient nature simulator for Waveshare ESP32-S3 Touch AMOLED 1.8" featuring 11 bird species with state-machine behaviors, pendulum physics, season-dependent scenery, and time-of-day lighting. [bird-feeder-esp32](https://github.com/iammartinj/bird-feeder-esp32)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/iammartinj/bird-feeder-esp32"><img src="media/bird-feeder-esp32-1.jpg" width="400" alt="bird-feeder-esp32 preview 1"></a>
+    <a href="https://github.com/iammartinj/bird-feeder-esp32"><img src="media/bird-feeder-esp32-2.jpg" width="400" alt="bird-feeder-esp32 preview 2"></a>
   </details>
 - **Battery-Efficient E-Ink Countdown Display**: Low-power countdown screen for Heltec Vision Master E213 (ESP32-S3) showing days remaining until a target date with Wi-Fi NTP time sync and deep sleep. [E-Ink-Countdown-Screen](https://github.com/Meandmybadself/E-Ink-Countdown-Screen)
   <details>
