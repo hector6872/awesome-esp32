@@ -352,6 +352,7 @@ Dedicated offline maps and telemetry for adventures and tracking.
   <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" height="120" alt="IceNav-v3"></a>
   <a href="https://github.com/meshtastic/firmware"><img src="media/meshtastic-firmware.jpg" height="120" alt="meshtastic-firmware"></a>
   <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" height="120" alt="open-bike-computer"></a>
+  <a href="https://github.com/lpolasek/OpenRUNN"><img src="media/OpenRUNN-1.jpg" height="120" alt="OpenRUNN"></a>
   <a href="https://github.com/JO3ALT/TinySSTV"><img src="media/TinySSTV.jpg" height="120" alt="TinySSTV"></a>
 </p>
 
@@ -412,6 +413,13 @@ Dedicated offline maps and telemetry for adventures and tracking.
     <br>
     <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" width="400" alt="open-bike-computer preview 1"></a>
     <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-2.jpg" width="400" alt="open-bike-computer preview 2"></a>
+  </details>
+- **BLE Smart Treadmill Speed & Cadence Sensor**: Optical treadmill speed, pace, and distance tracker for ESP32-C3 broadcasting standard BLE RSC telemetry to Garmin, Zwift, and sports watches with a self-hosted Wi-Fi web dashboard. [OpenRUNN](https://github.com/lpolasek/OpenRUNN)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/lpolasek/OpenRUNN"><img src="media/OpenRUNN-1.jpg" width="400" alt="OpenRUNN preview 1"></a>
+    <a href="https://github.com/lpolasek/OpenRUNN"><img src="media/OpenRUNN-2.jpg" width="400" alt="OpenRUNN preview 2"></a>
   </details>
 - **Standalone Martin M1 SSTV Transmitter**: Standalone Slow Scan Television (SSTV) transmitter firmware written in Rust for ESP32-C3 that encodes web-uploaded photos into precise 115s analog audio tones directly on GPIO without external codecs or DACs. [TinySSTV](https://github.com/JO3ALT/TinySSTV)
   <details>
