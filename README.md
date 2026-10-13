@@ -36,37 +36,37 @@ This curated list is designed as a visual catalog of creative possibilities—sp
 Turn a pocket-sized development board into a reliable presentation clicker or input gadget.
 
 <p align="left">
-  <a href="https://github.com/s-iwaki-d/ESP32Drop"><img src="media/ESP32Drop.jpg" height="120" alt="ESP32Drop"></a>
-  <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" height="120" alt="m5stickc-plus-presenter"></a>
-  <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" height="120" alt="The-Badge"></a>
-  <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-1.jpg" height="120" alt="unidex"></a>
+  <a href="https://github.com/s-iwaki-d/ESP32Drop"><img src="media/ESP32Drop.jpg" height="120" alt="ESP32Drop" title="ESP32Drop - AirDrop Protocol Implementation (AWDL)"></a>
+  <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" height="120" alt="m5stickc-plus-presenter" title="m5stickc-plus-presenter - Slide Clicker Remote for Talks & Lectures"></a>
+  <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" height="120" alt="The-Badge" title="The-Badge - Wearable Round AMOLED Air Mouse & Productivity Badge"></a>
+  <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-1.jpg" height="120" alt="unidex" title="unidex - Pocket E-Paper OS & Productivity Companion"></a>
 </p>
 
 - **AirDrop Protocol Implementation (AWDL)**: Native Apple Wireless Direct Link (AWDL) and AirDrop-compatible library for ESP32-S3 to transfer photos and files directly to and from iPhones and Macs without Wi-Fi routers or pairing. [ESP32Drop](https://github.com/s-iwaki-d/ESP32Drop)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/s-iwaki-d/ESP32Drop"><img src="media/ESP32Drop.jpg" width="400" alt="ESP32Drop preview"></a>
+    <a href="https://github.com/s-iwaki-d/ESP32Drop"><img src="media/ESP32Drop.jpg" width="400" alt="ESP32Drop preview" title="ESP32Drop - AirDrop Protocol Implementation (AWDL)"></a>
   </details>
 - **Slide Clicker Remote for Talks & Lectures**: Use an M5Stick as a Bluetooth BLE keyboard remote to advance slides on Google Slides, PowerPoint, or Keynote with on-screen button guides and battery status. [m5stickc-plus-presenter](https://github.com/F86Pilot/m5stickc-plus-presenter)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" width="400" alt="m5stickc-plus-presenter preview"></a>
+    <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" width="400" alt="m5stickc-plus-presenter preview" title="m5stickc-plus-presenter - Slide Clicker Remote for Talks & Lectures"></a>
   </details>
 - **Wearable Round AMOLED Air Mouse & Productivity Badge**: Multi-function wearable firmware for the CNC-cased Waveshare ESP32-S3 Touch AMOLED 1.75C featuring a BLE air mouse/trackpad, voice recorder, clock, and water physics fidgets. [The-Badge](https://github.com/curisama/The-Badge)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" width="400" alt="The-Badge preview 1"></a>
-    <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-2.jpg" width="400" alt="The-Badge preview 2"></a>
+    <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" width="400" alt="The-Badge preview 1" title="The-Badge - Wearable Round AMOLED Air Mouse & Productivity Badge"></a>
+    <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-2.jpg" width="400" alt="The-Badge preview 2" title="The-Badge - Wearable Round AMOLED Air Mouse & Productivity Badge"></a>
   </details>
 - **Pocket E-Paper OS & Productivity Companion**: Multi-feature pocket e-ink OS for Waveshare ESP32-S3 1.54" featuring timetable countdowns with calendar sync, voice notes to Obsidian, peer-to-peer interactive pets, and digital name badges. [unidex](https://github.com/Forrest404/unidex)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-1.jpg" width="400" alt="unidex preview 1"></a>
-    <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-2.jpg" width="400" alt="unidex preview 2"></a>
+    <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-1.jpg" width="400" alt="unidex preview 1" title="unidex - Pocket E-Paper OS & Productivity Companion"></a>
+    <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-2.jpg" width="400" alt="unidex preview 2" title="unidex - Pocket E-Paper OS & Productivity Companion"></a>
   </details>
 
 ## 🐱 Virtual Pets, Fidgets & Interactive Toys
@@ -74,44 +74,44 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
 Create pocket companions, physical party games, and physics-driven desk toys.
 
 <p align="left">
-  <a href="https://github.com/canwar-dj/67"><img src="media/67.jpg" height="120" alt="67"></a>
-  <a href="https://github.com/evandroguedes/doodlesoul"><img src="media/doodlesoul-1.jpg" height="120" alt="doodlesoul"></a>
-  <a href="https://github.com/V4C38/esp32-fluidbox"><img src="media/esp32-fluidbox.jpg" height="120" alt="esp32-fluidbox"></a>
-  <a href="https://github.com/toddsherman/pixelcat"><img src="media/pixelcat.jpg" height="120" alt="pixelcat"></a>
-  <a href="https://github.com/frolic/pocket-pet"><img src="media/pocket-pet-1.jpg" height="120" alt="pocket-pet"></a>
+  <a href="https://github.com/canwar-dj/67"><img src="media/67.jpg" height="120" alt="67" title="67 - Physical Party Throw-and-Catch Game"></a>
+  <a href="https://github.com/evandroguedes/doodlesoul"><img src="media/doodlesoul-1.jpg" height="120" alt="doodlesoul" title="doodlesoul - Unique Silicon-Generated Digital Pet"></a>
+  <a href="https://github.com/V4C38/esp32-fluidbox"><img src="media/esp32-fluidbox.jpg" height="120" alt="esp32-fluidbox" title="esp32-fluidbox - Interactive 2D Fluid & Particle Physics Box"></a>
+  <a href="https://github.com/toddsherman/pixelcat"><img src="media/pixelcat.jpg" height="120" alt="pixelcat" title="pixelcat - Schedule-Aware Desk Pet Cat"></a>
+  <a href="https://github.com/frolic/pocket-pet"><img src="media/pocket-pet-1.jpg" height="120" alt="pocket-pet" title="pocket-pet - Step-Counting Virtual Pet Watch"></a>
 </p>
 
 - **Physical Party Throw-and-Catch Game**: A hot-potato style party game for Waveshare ESP32-S3 Touch AMOLED 2.06" that detects freefall when tossed and stops random numbers when caught. [67](https://github.com/canwar-dj/67)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/canwar-dj/67"><img src="media/67.jpg" width="400" alt="67 preview"></a>
+    <a href="https://github.com/canwar-dj/67"><img src="media/67.jpg" width="400" alt="67 preview" title="67 - Physical Party Throw-and-Catch Game"></a>
   </details>
 - **Unique Silicon-Generated Digital Pet**: Procedural companion for M5StickC Plus whose identity, personality, and doodle art style are permanently tied to the chip's unique MAC address with boiling-line animation. [doodlesoul](https://github.com/evandroguedes/doodlesoul)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/evandroguedes/doodlesoul"><img src="media/doodlesoul-1.jpg" width="400" alt="doodlesoul preview 1"></a>
-    <a href="https://github.com/evandroguedes/doodlesoul"><img src="media/doodlesoul-2.gif" width="400" alt="doodlesoul preview 2"></a>
+    <a href="https://github.com/evandroguedes/doodlesoul"><img src="media/doodlesoul-1.jpg" width="400" alt="doodlesoul preview 1" title="doodlesoul - Unique Silicon-Generated Digital Pet"></a>
+    <a href="https://github.com/evandroguedes/doodlesoul"><img src="media/doodlesoul-2.gif" width="400" alt="doodlesoul preview 2" title="doodlesoul - Unique Silicon-Generated Digital Pet"></a>
   </details>
 - **Interactive 2D Fluid & Particle Physics Box**: Sensory fidget simulation where fluid and gravity react to touch and device tilt in real time. [esp32-fluidbox](https://github.com/V4C38/esp32-fluidbox)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/V4C38/esp32-fluidbox"><img src="media/esp32-fluidbox.jpg" width="400" alt="esp32-fluidbox preview"></a>
+    <a href="https://github.com/V4C38/esp32-fluidbox"><img src="media/esp32-fluidbox.jpg" width="400" alt="esp32-fluidbox preview" title="esp32-fluidbox - Interactive 2D Fluid & Particle Physics Box"></a>
   </details>
 - **Schedule-Aware Desk Pet Cat**: Animated pixel-art cat for ESP32-S3 AMOLED boards that learns your daily routines and schedules to seek attention when you are around. [pixelcat](https://github.com/toddsherman/pixelcat)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/toddsherman/pixelcat"><img src="media/pixelcat.jpg" width="400" alt="pixelcat preview"></a>
+    <a href="https://github.com/toddsherman/pixelcat"><img src="media/pixelcat.jpg" width="400" alt="pixelcat preview" title="pixelcat - Schedule-Aware Desk Pet Cat"></a>
   </details>
 - **Step-Counting Virtual Pet Watch**: Pocket-Pikachu-inspired companion for Waveshare ESP32-S3 Touch AMOLED 2.06" that levels up and walks through fields as you log real physical steps. [pocket-pet](https://github.com/frolic/pocket-pet)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/frolic/pocket-pet"><img src="media/pocket-pet-1.jpg" width="400" alt="pocket-pet preview 1"></a>
-    <a href="https://github.com/frolic/pocket-pet"><img src="media/pocket-pet-2.jpg" width="400" alt="pocket-pet preview 2"></a>
+    <a href="https://github.com/frolic/pocket-pet"><img src="media/pocket-pet-1.jpg" width="400" alt="pocket-pet preview 1" title="pocket-pet - Step-Counting Virtual Pet Watch"></a>
+    <a href="https://github.com/frolic/pocket-pet"><img src="media/pocket-pet-2.jpg" width="400" alt="pocket-pet preview 2" title="pocket-pet - Step-Counting Virtual Pet Watch"></a>
   </details>
 
 ## 🕒 Desk Companions, Smart Clocks & Ambient Displays
@@ -119,83 +119,83 @@ Create pocket companions, physical party games, and physics-driven desk toys.
 Build glanceable screens that live on your desk without causing screen fatigue.
 
 <p align="left">
-  <a href="https://github.com/POWER-PILL/ASCII-Aquarium"><img src="media/ASCII-Aquarium-1.jpg" height="120" alt="ASCII-Aquarium"></a>
-  <a href="https://github.com/Blueforcer/awtrix-ng"><img src="media/awtrix-ng.jpg" height="120" alt="awtrix-ng"></a>
-  <a href="https://github.com/iammartinj/bird-feeder-esp32"><img src="media/bird-feeder-esp32-1.jpg" height="120" alt="bird-feeder-esp32"></a>
-  <a href="https://github.com/Meandmybadself/E-Ink-Countdown-Screen"><img src="media/E-Ink-Countdown-Screen.jpg" height="120" alt="E-Ink-Countdown-Screen"></a>
-  <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-2.jpg" height="120" alt="esp_busy_tag"></a>
-  <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-1.jpg" height="120" alt="esp_pomodoro_timer"></a>
-  <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" height="120" alt="inksight"></a>
-  <a href="https://github.com/VolosR/meterClock"><img src="media/meterClock.jpg" height="120" alt="meterClock"></a>
-  <a href="https://github.com/AideaHandesen-dvs/tempmeter"><img src="media/tempmeter.jpg" height="120" alt="tempmeter"></a>
-  <a href="https://github.com/LJ545/TravelFrame"><img src="media/TravelFrame.jpg" height="120" alt="TravelFrame"></a>
+  <a href="https://github.com/POWER-PILL/ASCII-Aquarium"><img src="media/ASCII-Aquarium-1.jpg" height="120" alt="ASCII-Aquarium" title="ASCII-Aquarium - Animated ASCII Fish Tank Clock"></a>
+  <a href="https://github.com/Blueforcer/awtrix-ng"><img src="media/awtrix-ng.jpg" height="120" alt="awtrix-ng" title="awtrix-ng - Networked LED Pixel Matrix Clock"></a>
+  <a href="https://github.com/iammartinj/bird-feeder-esp32"><img src="media/bird-feeder-esp32-1.jpg" height="120" alt="bird-feeder-esp32" title="bird-feeder-esp32 - Simulated Garden Bird Feeder & Living Nature Window"></a>
+  <a href="https://github.com/Meandmybadself/E-Ink-Countdown-Screen"><img src="media/E-Ink-Countdown-Screen.jpg" height="120" alt="E-Ink-Countdown-Screen" title="E-Ink-Countdown-Screen - Battery-Efficient E-Ink Countdown Display"></a>
+  <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-2.jpg" height="120" alt="esp_busy_tag" title="esp_busy_tag - Desktop Availability & Busy Tag Indicator"></a>
+  <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-1.jpg" height="120" alt="esp_pomodoro_timer" title="esp_pomodoro_timer - Orientation-Controlled Cube Pomodoro Timer"></a>
+  <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" height="120" alt="inksight" title="inksight - Calm E-Ink Desk Dashboard"></a>
+  <a href="https://github.com/VolosR/meterClock"><img src="media/meterClock.jpg" height="120" alt="meterClock" title="meterClock - Electricity-Meter-Themed Desk Clock"></a>
+  <a href="https://github.com/AideaHandesen-dvs/tempmeter"><img src="media/tempmeter.jpg" height="120" alt="tempmeter" title="tempmeter - Minimalist Room Thermometer & Web Sensor"></a>
+  <a href="https://github.com/LJ545/TravelFrame"><img src="media/TravelFrame.jpg" height="120" alt="TravelFrame" title="TravelFrame - Self-Hosted E-Ink Travel Milestones Frame"></a>
 </p>
 
 - **Animated ASCII Fish Tank Clock**: Whimsical retro aquarium and clock for ESP32 Cheap Yellow Display (CYD) boards featuring touch feeding, live creature simulation, and Wi-Fi NTP time sync. [ASCII-Aquarium](https://github.com/POWER-PILL/ASCII-Aquarium)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/POWER-PILL/ASCII-Aquarium"><img src="media/ASCII-Aquarium-1.jpg" width="400" alt="ASCII-Aquarium preview 1"></a>
-    <a href="https://github.com/POWER-PILL/ASCII-Aquarium"><img src="media/ASCII-Aquarium-2.jpg" width="400" alt="ASCII-Aquarium preview 2"></a>
+    <a href="https://github.com/POWER-PILL/ASCII-Aquarium"><img src="media/ASCII-Aquarium-1.jpg" width="400" alt="ASCII-Aquarium preview 1" title="ASCII-Aquarium - Animated ASCII Fish Tank Clock"></a>
+    <a href="https://github.com/POWER-PILL/ASCII-Aquarium"><img src="media/ASCII-Aquarium-2.jpg" width="400" alt="ASCII-Aquarium preview 2" title="ASCII-Aquarium - Animated ASCII Fish Tank Clock"></a>
   </details>
 - **Networked LED Pixel Matrix Clock**: Retro pixel display that pulls notifications from Home Assistant, weather alerts, and custom on-device apps with MQTT/HTTP support. [awtrix-ng](https://github.com/Blueforcer/awtrix-ng)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/Blueforcer/awtrix-ng"><img src="media/awtrix-ng.jpg" width="400" alt="awtrix-ng preview"></a>
+    <a href="https://github.com/Blueforcer/awtrix-ng"><img src="media/awtrix-ng.jpg" width="400" alt="awtrix-ng preview" title="awtrix-ng - Networked LED Pixel Matrix Clock"></a>
   </details>
 - **Simulated Garden Bird Feeder & Living Nature Window**: Ambient nature simulator for Waveshare ESP32-S3 Touch AMOLED 1.8" featuring 11 bird species with state-machine behaviors, pendulum physics, season-dependent scenery, and time-of-day lighting. [bird-feeder-esp32](https://github.com/iammartinj/bird-feeder-esp32)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/iammartinj/bird-feeder-esp32"><img src="media/bird-feeder-esp32-1.jpg" width="400" alt="bird-feeder-esp32 preview 1"></a>
-    <a href="https://github.com/iammartinj/bird-feeder-esp32"><img src="media/bird-feeder-esp32-2.jpg" width="400" alt="bird-feeder-esp32 preview 2"></a>
+    <a href="https://github.com/iammartinj/bird-feeder-esp32"><img src="media/bird-feeder-esp32-1.jpg" width="400" alt="bird-feeder-esp32 preview 1" title="bird-feeder-esp32 - Simulated Garden Bird Feeder & Living Nature Window"></a>
+    <a href="https://github.com/iammartinj/bird-feeder-esp32"><img src="media/bird-feeder-esp32-2.jpg" width="400" alt="bird-feeder-esp32 preview 2" title="bird-feeder-esp32 - Simulated Garden Bird Feeder & Living Nature Window"></a>
   </details>
 - **Battery-Efficient E-Ink Countdown Display**: Low-power countdown screen for Heltec Vision Master E213 (ESP32-S3) showing days remaining until a target date with Wi-Fi NTP time sync and deep sleep. [E-Ink-Countdown-Screen](https://github.com/Meandmybadself/E-Ink-Countdown-Screen)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/Meandmybadself/E-Ink-Countdown-Screen"><img src="media/E-Ink-Countdown-Screen.jpg" width="400" alt="E-Ink-Countdown-Screen preview"></a>
+    <a href="https://github.com/Meandmybadself/E-Ink-Countdown-Screen"><img src="media/E-Ink-Countdown-Screen.jpg" width="400" alt="E-Ink-Countdown-Screen preview" title="E-Ink-Countdown-Screen - Battery-Efficient E-Ink Countdown Display"></a>
   </details>
 - **Desktop Availability & Busy Tag Indicator**: Tabletop presence and status indicator for Waveshare ESP32-S3 Touch AMOLED 1.8" cycling Free, Busy, and Meeting states via physical button or terminal TUI over USB. [esp_busy_tag](https://github.com/khlebobul/esp_busy_tag)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-1.jpg" width="400" alt="esp_busy_tag preview 1"></a>
-    <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-2.jpg" width="400" alt="esp_busy_tag preview 2"></a>
-    <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-3.jpg" width="400" alt="esp_busy_tag preview 3"></a>
+    <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-1.jpg" width="400" alt="esp_busy_tag preview 1" title="esp_busy_tag - Desktop Availability & Busy Tag Indicator"></a>
+    <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-2.jpg" width="400" alt="esp_busy_tag preview 2" title="esp_busy_tag - Desktop Availability & Busy Tag Indicator"></a>
+    <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-3.jpg" width="400" alt="esp_busy_tag preview 3" title="esp_busy_tag - Desktop Availability & Busy Tag Indicator"></a>
   </details>
 - **Orientation-Controlled Cube Pomodoro Timer**: Desk productivity timer for Waveshare ESP32-S3 Touch AMOLED 1.8" using a QMI8658 accelerometer to select 5, 10, 30, or 60-minute focus durations by standing the device on each side edge. [esp_pomodoro_timer](https://github.com/khlebobul/esp_pomodoro_timer)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-1.jpg" width="400" alt="esp_pomodoro_timer preview 1"></a>
-    <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-2.jpg" width="400" alt="esp_pomodoro_timer preview 2"></a>
+    <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-1.jpg" width="400" alt="esp_pomodoro_timer preview 1" title="esp_pomodoro_timer - Orientation-Controlled Cube Pomodoro Timer"></a>
+    <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-2.jpg" width="400" alt="esp_pomodoro_timer preview 2" title="esp_pomodoro_timer - Orientation-Controlled Cube Pomodoro Timer"></a>
   </details>
 - **Calm E-Ink Desk Dashboard**: Battery-friendly paper display for ESP32-C3 showing live weather, reminders, daily quotes, and productivity countdowns with browser setup. [inksight](https://github.com/datascale-ai/inksight)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" width="400" alt="inksight preview 1"></a>
-    <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-2.jpg" width="400" alt="inksight preview 2"></a>
+    <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" width="400" alt="inksight preview 1" title="inksight - Calm E-Ink Desk Dashboard"></a>
+    <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-2.jpg" width="400" alt="inksight preview 2" title="inksight - Calm E-Ink Desk Dashboard"></a>
   </details>
 - **Electricity-Meter-Themed Desk Clock**: Retro digital desk clock for M5Stack/ESP32 styled after an analog electricity kWh meter, rendering rolling mechanical counter drums and a rotating induction disk animation using LVGL. [meterClock](https://github.com/VolosR/meterClock)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/VolosR/meterClock"><img src="media/meterClock.jpg" width="400" alt="meterClock preview"></a>
+    <a href="https://github.com/VolosR/meterClock"><img src="media/meterClock.jpg" width="400" alt="meterClock preview" title="meterClock - Electricity-Meter-Themed Desk Clock"></a>
   </details>
 - **Minimalist Room Thermometer & Web Sensor**: Low-cost ambient room monitor for ESP32-C3 SuperMini with BME280 sensor, 4-digit 7-segment display, captive portal Wi-Fi setup, and local HTTP/JSON endpoints. [tempmeter](https://github.com/AideaHandesen-dvs/tempmeter)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/AideaHandesen-dvs/tempmeter"><img src="media/tempmeter.jpg" width="400" alt="tempmeter preview"></a>
+    <a href="https://github.com/AideaHandesen-dvs/tempmeter"><img src="media/tempmeter.jpg" width="400" alt="tempmeter preview" title="tempmeter - Minimalist Room Thermometer & Web Sensor"></a>
   </details>
 - **Self-Hosted E-Ink Travel Milestones Frame**: Digital world map and travel tracker on an 800x480 e-ink display driven by ESP32, highlighting visited countries and live weather. [TravelFrame](https://github.com/LJ545/TravelFrame)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/LJ545/TravelFrame"><img src="media/TravelFrame.jpg" width="400" alt="TravelFrame preview"></a>
+    <a href="https://github.com/LJ545/TravelFrame"><img src="media/TravelFrame.jpg" width="400" alt="TravelFrame preview" title="TravelFrame - Self-Hosted E-Ink Travel Milestones Frame"></a>
   </details>
 
 ## 📖 E-Paper Readers & Digital Books
@@ -203,15 +203,15 @@ Build glanceable screens that live on your desk without causing screen fatigue.
 Build portable e-book readers, EPUB engines, and distraction-free digital paper devices.
 
 <p align="left">
-  <a href="https://github.com/Free-Ink/freeink-sdk"><img src="media/freeink-sdk-1.jpg" height="120" alt="freeink-sdk"></a>
+  <a href="https://github.com/Free-Ink/freeink-sdk"><img src="media/freeink-sdk-1.jpg" height="120" alt="freeink-sdk" title="freeink-sdk - Hardware-Independent E-Paper Reader & UI SDK"></a>
 </p>
 
 - **Hardware-Independent E-Paper Reader & UI SDK**: Modular firmware framework and immediate-mode UI layer (FreeInkUI) for building e-paper book readers (FreeInkBook EPUB engine) across diverse ESP32 e-ink screens. [freeink-sdk](https://github.com/Free-Ink/freeink-sdk)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/Free-Ink/freeink-sdk"><img src="media/freeink-sdk-1.jpg" width="400" alt="freeink-sdk preview 1"></a>
-    <a href="https://github.com/Free-Ink/freeink-sdk"><img src="media/freeink-sdk-2.jpg" width="400" alt="freeink-sdk preview 2"></a>
+    <a href="https://github.com/Free-Ink/freeink-sdk"><img src="media/freeink-sdk-1.jpg" width="400" alt="freeink-sdk preview 1" title="freeink-sdk - Hardware-Independent E-Paper Reader & UI SDK"></a>
+    <a href="https://github.com/Free-Ink/freeink-sdk"><img src="media/freeink-sdk-2.jpg" width="400" alt="freeink-sdk preview 2" title="freeink-sdk - Hardware-Independent E-Paper Reader & UI SDK"></a>
   </details>
 
 ## 🗣️ AI Voice Assistants & Communicators
@@ -219,68 +219,68 @@ Build portable e-book readers, EPUB engines, and distraction-free digital paper 
 Harness on-device audio and cloud intelligence for speech-driven hardware.
 
 <p align="left">
-  <a href="https://github.com/steveruizok/chat-stick"><img src="media/chat-stick.jpg" height="120" alt="chat-stick"></a>
-  <a href="https://github.com/seichris/codex-microphone"><img src="media/codex-microphone-1.jpg" height="120" alt="codex-microphone"></a>
-  <a href="https://github.com/jeonghopark/esp32-ai"><img src="media/esp32-ai.jpg" height="120" alt="esp32-ai"></a>
-  <a href="https://github.com/tobymarks/esp32-ai-monitor"><img src="media/esp32-ai-monitor-1.jpg" height="120" alt="esp32-ai-monitor"></a>
-  <a href="https://github.com/mso96/ESP32-Codex-agent-device"><img src="media/ESP32-Codex-agent-device.jpg" height="120" alt="ESP32-Codex-agent-device"></a>
-  <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" height="120" alt="familybox"></a>
-  <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-2.jpg" height="120" alt="Tsixom-Watch-Buddy"></a>
-  <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-1.jpg" height="120" alt="xiaozhi-esp32"></a>
+  <a href="https://github.com/steveruizok/chat-stick"><img src="media/chat-stick.jpg" height="120" alt="chat-stick" title="chat-stick - Live Speech-to-Speech AI Assistant"></a>
+  <a href="https://github.com/seichris/codex-microphone"><img src="media/codex-microphone-1.jpg" height="120" alt="codex-microphone" title="codex-microphone - Desktop AI Task Dictation Microphone & Companion"></a>
+  <a href="https://github.com/jeonghopark/esp32-ai"><img src="media/esp32-ai.jpg" height="120" alt="esp32-ai" title="esp32-ai - On-Device Neural Poem Generator (TinyPoems)"></a>
+  <a href="https://github.com/tobymarks/esp32-ai-monitor"><img src="media/esp32-ai-monitor-1.jpg" height="120" alt="esp32-ai-monitor" title="esp32-ai-monitor - Desktop AI Usage Limits & Quota Monitor"></a>
+  <a href="https://github.com/mso96/ESP32-Codex-agent-device"><img src="media/ESP32-Codex-agent-device.jpg" height="120" alt="ESP32-Codex-agent-device" title="ESP32-Codex-agent-device - Physical AI Coding Agent Status Device"></a>
+  <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" height="120" alt="familybox" title="familybox - Family Photo & Voice Messenger for Kids"></a>
+  <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-2.jpg" height="120" alt="Tsixom-Watch-Buddy" title="Tsixom-Watch-Buddy - AI-Powered Smartwatch"></a>
+  <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-1.jpg" height="120" alt="xiaozhi-esp32" title="xiaozhi-esp32 - MCP-Based Multimodal AI Chatbot"></a>
 </p>
 
 - **Live Speech-to-Speech AI Assistant**: Handheld conversational voice assistant for M5StickS3 and other ESP32-S3 devices powered by Gemini Live API and Cloudflare Workers. [chat-stick](https://github.com/steveruizok/chat-stick)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/steveruizok/chat-stick"><img src="media/chat-stick.jpg" width="400" alt="chat-stick preview"></a>
+    <a href="https://github.com/steveruizok/chat-stick"><img src="media/chat-stick.jpg" width="400" alt="chat-stick preview" title="chat-stick - Live Speech-to-Speech AI Assistant"></a>
   </details>
 - **Desktop AI Task Dictation Microphone & Companion**: Hardware desk companion for Waveshare ESP32-S3 Touch AMOLED 2.06" displaying pinned Codex threads and serving as a privacy-gated USB / Wi-Fi voice microphone. [codex-microphone](https://github.com/seichris/codex-microphone)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/seichris/codex-microphone"><img src="media/codex-microphone-1.jpg" width="400" alt="codex-microphone preview 1"></a>
-    <a href="https://github.com/seichris/codex-microphone"><img src="media/codex-microphone-2.jpg" width="400" alt="codex-microphone preview 2"></a>
+    <a href="https://github.com/seichris/codex-microphone"><img src="media/codex-microphone-1.jpg" width="400" alt="codex-microphone preview 1" title="codex-microphone - Desktop AI Task Dictation Microphone & Companion"></a>
+    <a href="https://github.com/seichris/codex-microphone"><img src="media/codex-microphone-2.jpg" width="400" alt="codex-microphone preview 2" title="codex-microphone - Desktop AI Task Dictation Microphone & Companion"></a>
   </details>
 - **On-Device Neural Poem Generator (TinyPoems)**: Native on-device transformer language model inference running on M5StickS3 to generate procedural poems without cloud APIs. [esp32-ai](https://github.com/jeonghopark/esp32-ai)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/jeonghopark/esp32-ai"><img src="media/esp32-ai.jpg" width="400" alt="esp32-ai preview"></a>
+    <a href="https://github.com/jeonghopark/esp32-ai"><img src="media/esp32-ai.jpg" width="400" alt="esp32-ai preview" title="esp32-ai - On-Device Neural Poem Generator (TinyPoems)"></a>
   </details>
 - **Desktop AI Usage Limits & Quota Monitor**: Glanceable hardware desk monitor for ESP32 CYD and Guition 4" displays streaming real-time usage limits and session quotas for Claude, ChatGPT, Gemini, Cursor, and Antigravity over USB. [esp32-ai-monitor](https://github.com/tobymarks/esp32-ai-monitor)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/tobymarks/esp32-ai-monitor"><img src="media/esp32-ai-monitor-1.jpg" width="400" alt="esp32-ai-monitor preview 1"></a>
-    <a href="https://github.com/tobymarks/esp32-ai-monitor"><img src="media/esp32-ai-monitor-2.jpg" width="400" alt="esp32-ai-monitor preview 2"></a>
+    <a href="https://github.com/tobymarks/esp32-ai-monitor"><img src="media/esp32-ai-monitor-1.jpg" width="400" alt="esp32-ai-monitor preview 1" title="esp32-ai-monitor - Desktop AI Usage Limits & Quota Monitor"></a>
+    <a href="https://github.com/tobymarks/esp32-ai-monitor"><img src="media/esp32-ai-monitor-2.jpg" width="400" alt="esp32-ai-monitor preview 2" title="esp32-ai-monitor - Desktop AI Usage Limits & Quota Monitor"></a>
   </details>
 - **Physical AI Coding Agent Status Device**: Hardware status monitor and procedural avatar for Waveshare ESP32-S3 Touch AMOLED 1.8" that mirrors the lifecycle and token telemetry of local Codex AI tasks. [ESP32-Codex-agent-device](https://github.com/mso96/ESP32-Codex-agent-device)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/mso96/ESP32-Codex-agent-device"><img src="media/ESP32-Codex-agent-device.jpg" width="400" alt="ESP32-Codex-agent-device preview"></a>
+    <a href="https://github.com/mso96/ESP32-Codex-agent-device"><img src="media/ESP32-Codex-agent-device.jpg" width="400" alt="ESP32-Codex-agent-device preview" title="ESP32-Codex-agent-device - Physical AI Coding Agent Status Device"></a>
   </details>
 - **Family Photo & Voice Messenger for Kids**: Photo and voice communicator for Waveshare ESP32-S3 Touch AMOLED 1.8" letting parents and young children exchange photos and voice notes without text. [familybox](https://github.com/F86Pilot/familybox)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" width="300" alt="familybox preview 1"></a>
-    <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-2.jpg" width="400" alt="familybox preview 2"></a>
+    <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" width="300" alt="familybox preview 1" title="familybox - Family Photo & Voice Messenger for Kids"></a>
+    <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-2.jpg" width="400" alt="familybox preview 2" title="familybox - Family Photo & Voice Messenger for Kids"></a>
   </details>
 - **AI-Powered Smartwatch**: Wearable companion combining voice interaction, cloud AI integration, a custom graphics engine, and power management. [Tsixom-Watch-Buddy](https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-1.gif" width="350" alt="Tsixom-Watch-Buddy preview 1"></a>
-    <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-2.jpg" width="400" alt="Tsixom-Watch-Buddy preview 2"></a>
+    <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-1.gif" width="350" alt="Tsixom-Watch-Buddy preview 1" title="Tsixom-Watch-Buddy - AI-Powered Smartwatch"></a>
+    <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-2.jpg" width="400" alt="Tsixom-Watch-Buddy preview 2" title="Tsixom-Watch-Buddy - AI-Powered Smartwatch"></a>
   </details>
 - **MCP-Based Multimodal AI Chatbot**: Full-duplex conversational voice and vision AI assistant for ESP32 with Model Context Protocol (MCP) tool integration, camera support, and broad board compatibility. [xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-1.jpg" width="400" alt="xiaozhi-esp32 preview 1"></a>
-    <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-2.jpg" width="400" alt="xiaozhi-esp32 preview 2"></a>
+    <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-1.jpg" width="400" alt="xiaozhi-esp32 preview 1" title="xiaozhi-esp32 - MCP-Based Multimodal AI Chatbot"></a>
+    <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-2.jpg" width="400" alt="xiaozhi-esp32 preview 2" title="xiaozhi-esp32 - MCP-Based Multimodal AI Chatbot"></a>
   </details>
 
 ## 🎮 Handheld Gaming & Retro Emulation
@@ -288,31 +288,31 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
 Build pocket game consoles and relive vintage computers.
 
 <p align="left">
-  <a href="https://github.com/rhys101/Beebem-ESP32-S3"><img src="media/Beebem-ESP32-S3-1.jpg" height="120" alt="Beebem-ESP32-S3"></a>
-  <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-1.jpg" height="120" alt="gameos"></a>
-  <a href="https://github.com/MikeWilson/infinite-golf"><img src="media/infinite-golf-1.jpg" height="120" alt="infinite-golf"></a>
+  <a href="https://github.com/rhys101/Beebem-ESP32-S3"><img src="media/Beebem-ESP32-S3-1.jpg" height="120" alt="Beebem-ESP32-S3" title="Beebem-ESP32-S3 - Classic 8-Bit Computer Emulation"></a>
+  <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-1.jpg" height="120" alt="gameos" title="gameos - Bare-Metal Handheld Game OS"></a>
+  <a href="https://github.com/MikeWilson/infinite-golf"><img src="media/infinite-golf-1.jpg" height="120" alt="infinite-golf" title="infinite-golf - Procedural Mini-Golf Game"></a>
 </p>
 
 - **Classic 8-Bit Computer Emulation**: Port of the BeebEm emulator to run classic BBC Micro and Master 128 software on ESP32-S3. [Beebem-ESP32-S3](https://github.com/rhys101/Beebem-ESP32-S3)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/rhys101/Beebem-ESP32-S3"><img src="media/Beebem-ESP32-S3-1.jpg" width="400" alt="Beebem-ESP32-S3 preview 1"></a>
-    <a href="https://github.com/rhys101/Beebem-ESP32-S3"><img src="media/Beebem-ESP32-S3-2.jpg" width="400" alt="Beebem-ESP32-S3 preview 2"></a>
+    <a href="https://github.com/rhys101/Beebem-ESP32-S3"><img src="media/Beebem-ESP32-S3-1.jpg" width="400" alt="Beebem-ESP32-S3 preview 1" title="Beebem-ESP32-S3 - Classic 8-Bit Computer Emulation"></a>
+    <a href="https://github.com/rhys101/Beebem-ESP32-S3"><img src="media/Beebem-ESP32-S3-2.jpg" width="400" alt="Beebem-ESP32-S3 preview 2" title="Beebem-ESP32-S3 - Classic 8-Bit Computer Emulation"></a>
   </details>
 - **Bare-Metal Handheld Game OS**: Minimalist game OS and games for Waveshare ESP32-S3 Touch AMOLED 1.8" written in pure C on ESP-IDF with procedural audio and visuals. [gameos](https://github.com/MikeWilson/esp32-gameos)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-1.jpg" width="350" alt="gameos preview 1"></a>
-    <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-2.jpg" width="350" alt="gameos preview 2"></a>
+    <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-1.jpg" width="350" alt="gameos preview 1" title="gameos - Bare-Metal Handheld Game OS"></a>
+    <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-2.jpg" width="350" alt="gameos preview 2" title="gameos - Bare-Metal Handheld Game OS"></a>
   </details>
 - **Procedural Mini-Golf Game**: Procedurally generated mini-golf game with touch aiming and physical swing motion controls. [infinite-golf](https://github.com/MikeWilson/infinite-golf)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/MikeWilson/infinite-golf"><img src="media/infinite-golf-1.jpg" width="350" alt="infinite-golf preview 1"></a>
-    <a href="https://github.com/MikeWilson/infinite-golf"><img src="media/infinite-golf-2.jpg" width="350" alt="infinite-golf preview 2"></a>
+    <a href="https://github.com/MikeWilson/infinite-golf"><img src="media/infinite-golf-1.jpg" width="350" alt="infinite-golf preview 1" title="infinite-golf - Procedural Mini-Golf Game"></a>
+    <a href="https://github.com/MikeWilson/infinite-golf"><img src="media/infinite-golf-2.jpg" width="350" alt="infinite-golf preview 2" title="infinite-golf - Procedural Mini-Golf Game"></a>
   </details>
 
 ## 🏠 Smart Home Controllers & UI Dashboards
@@ -320,30 +320,30 @@ Build pocket game consoles and relive vintage computers.
 Give your smart home physical touchscreens and intuitive controls.
 
 <p align="left">
-  <a href="https://github.com/aaronbeckmann/ESP-DashboardPlus"><img src="media/ESP-DashboardPlus-1.jpg" height="120" alt="ESP-DashboardPlus"></a>
-  <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-1.jpg" height="120" alt="HomePoint"></a>
-  <a href="https://github.com/zigbee-rs/zigbee-rs"><img src="media/zigbee-rs.jpg" height="120" alt="zigbee-rs"></a>
+  <a href="https://github.com/aaronbeckmann/ESP-DashboardPlus"><img src="media/ESP-DashboardPlus-1.jpg" height="120" alt="ESP-DashboardPlus" title="ESP-DashboardPlus - Real-Time Web Dashboard Library"></a>
+  <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-1.jpg" height="120" alt="HomePoint" title="HomePoint - Touchscreen Smart Home Hub"></a>
+  <a href="https://github.com/zigbee-rs/zigbee-rs"><img src="media/zigbee-rs.jpg" height="120" alt="zigbee-rs" title="zigbee-rs - Pure-Rust Zigbee 3.0 Protocol Stack"></a>
 </p>
 
 - **Real-Time Web Dashboard Library**: Responsive web dashboard library for ESP32 with WebSocket updates, 16+ customizable cards (charts, gauges, toggles), and built-in OTA. [ESP-DashboardPlus](https://github.com/aaronbeckmann/ESP-DashboardPlus)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/aaronbeckmann/ESP-DashboardPlus"><img src="media/ESP-DashboardPlus-1.jpg" width="400" alt="ESP-DashboardPlus preview 1"></a>
-    <a href="https://github.com/aaronbeckmann/ESP-DashboardPlus"><img src="media/ESP-DashboardPlus-2.jpg" width="400" alt="ESP-DashboardPlus preview 2"></a>
+    <a href="https://github.com/aaronbeckmann/ESP-DashboardPlus"><img src="media/ESP-DashboardPlus-1.jpg" width="400" alt="ESP-DashboardPlus preview 1" title="ESP-DashboardPlus - Real-Time Web Dashboard Library"></a>
+    <a href="https://github.com/aaronbeckmann/ESP-DashboardPlus"><img src="media/ESP-DashboardPlus-2.jpg" width="400" alt="ESP-DashboardPlus preview 2" title="ESP-DashboardPlus - Real-Time Web Dashboard Library"></a>
   </details>
 - **Touchscreen Smart Home Hub**: Screen-based interface and dashboard to control HomeKit and MQTT smart lights, switches, and scenes. [HomePoint](https://github.com/sieren/HomePoint)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-1.jpg" width="400" alt="HomePoint preview 1"></a>
-    <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-2.jpg" width="400" alt="HomePoint preview 2"></a>
+    <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-1.jpg" width="400" alt="HomePoint preview 1" title="HomePoint - Touchscreen Smart Home Hub"></a>
+    <a href="https://github.com/sieren/HomePoint"><img src="media/HomePoint-2.jpg" width="400" alt="HomePoint preview 2" title="HomePoint - Touchscreen Smart Home Hub"></a>
   </details>
 - **Pure-Rust Zigbee 3.0 Protocol Stack**: Native `no-std` Zigbee stack and Cluster Library in Rust with ESP32-C6/H2 support, enabling custom low-power Zigbee sensors, sniffers, and home automation nodes. [zigbee-rs](https://github.com/zigbee-rs/zigbee-rs)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/zigbee-rs/zigbee-rs"><img src="media/zigbee-rs.jpg" width="400" alt="zigbee-rs preview"></a>
+    <a href="https://github.com/zigbee-rs/zigbee-rs"><img src="media/zigbee-rs.jpg" width="400" alt="zigbee-rs preview" title="zigbee-rs - Pure-Rust Zigbee 3.0 Protocol Stack"></a>
   </details>
 
 ## 🚴 Outdoor, Sports & Live Trackers
@@ -351,89 +351,89 @@ Give your smart home physical touchscreens and intuitive controls.
 Dedicated offline maps and telemetry for adventures and tracking.
 
 <p align="left">
-  <a href="https://github.com/vmalis/AirESP32ace"><img src="media/AirESP32ace-1.jpg" height="120" alt="AirESP32ace"></a>
-  <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-1.jpg" height="120" alt="bike-computer-32"></a>
-  <a href="https://github.com/khlebobul/esp_ble_finder"><img src="media/esp_ble_finder.jpg" height="120" alt="esp_ble_finder"></a>
-  <a href="https://github.com/HenrysCat/esp32-cyd-ham-dashboard"><img src="media/ESP32-CYD-HAM-Dashboard.jpg" height="120" alt="ESP32-CYD-HAM-Dashboard"></a>
-  <a href="https://github.com/MatixYo/ESP32-Plane-Radar"><img src="media/ESP32-Plane-Radar.jpg" height="120" alt="ESP32-Plane-Radar"></a>
-  <a href="https://github.com/austinbirch/esp32-vertical-card-compass"><img src="media/esp32-vertical-card-compass.jpg" height="120" alt="esp32-vertical-card-compass"></a>
-  <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" height="120" alt="IceNav-v3"></a>
-  <a href="https://github.com/meshtastic/firmware"><img src="media/meshtastic-firmware.jpg" height="120" alt="meshtastic-firmware"></a>
-  <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" height="120" alt="open-bike-computer"></a>
-  <a href="https://github.com/lpolasek/OpenRUNN"><img src="media/OpenRUNN-1.jpg" height="120" alt="OpenRUNN"></a>
-  <a href="https://github.com/JO3ALT/TinySSTV"><img src="media/TinySSTV.jpg" height="120" alt="TinySSTV"></a>
+  <a href="https://github.com/vmalis/AirESP32ace"><img src="media/AirESP32ace-1.jpg" height="120" alt="AirESP32ace" title="AirESP32ace - Aviation, Satellite & Launch Radar"></a>
+  <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-1.jpg" height="120" alt="bike-computer-32" title="bike-computer-32 - Offline GPS Cycling Computer"></a>
+  <a href="https://github.com/khlebobul/esp_ble_finder"><img src="media/esp_ble_finder.jpg" height="120" alt="esp_ble_finder" title="esp_ble_finder - Proximity-Based BLE Hunter & Phone Finder"></a>
+  <a href="https://github.com/HenrysCat/esp32-cyd-ham-dashboard"><img src="media/ESP32-CYD-HAM-Dashboard.jpg" height="120" alt="ESP32-CYD-HAM-Dashboard" title="ESP32-CYD-HAM-Dashboard - Ham Radio Station Monitor"></a>
+  <a href="https://github.com/MatixYo/ESP32-Plane-Radar"><img src="media/ESP32-Plane-Radar.jpg" height="120" alt="ESP32-Plane-Radar" title="ESP32-Plane-Radar - Circular Live ADS-B Aircraft Sonar Radar"></a>
+  <a href="https://github.com/austinbirch/esp32-vertical-card-compass"><img src="media/esp32-vertical-card-compass.jpg" height="120" alt="esp32-vertical-card-compass" title="esp32-vertical-card-compass - Aviation Vertical-Card Magnetic Compass Simulation"></a>
+  <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" height="120" alt="IceNav-v3" title="IceNav-v3 - Multi-GNSS Offline GPS Navigator"></a>
+  <a href="https://github.com/meshtastic/firmware"><img src="media/meshtastic-firmware.jpg" height="120" alt="meshtastic-firmware" title="meshtastic-firmware - Decentralized LoRa Mesh Communicator & GPS Telemetry"></a>
+  <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" height="120" alt="open-bike-computer" title="open-bike-computer - Smart Garmin-Mounted Bike Computer"></a>
+  <a href="https://github.com/lpolasek/OpenRUNN"><img src="media/OpenRUNN-1.jpg" height="120" alt="OpenRUNN" title="OpenRUNN - BLE Smart Treadmill Speed & Cadence Sensor"></a>
+  <a href="https://github.com/JO3ALT/TinySSTV"><img src="media/TinySSTV.jpg" height="120" alt="TinySSTV" title="TinySSTV - Standalone Martin M1 SSTV Transmitter"></a>
 </p>
 
 - **Aviation, Satellite & Launch Radar**: Interactive live radar tracking aircraft flights, weather passes, and space rocket launches. [AirESP32ace](https://github.com/vmalis/AirESP32ace)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/vmalis/AirESP32ace"><img src="media/AirESP32ace-1.jpg" width="400" alt="AirESP32ace preview 1"></a>
-    <a href="https://github.com/vmalis/AirESP32ace"><img src="media/AirESP32ace-2.jpg" width="400" alt="AirESP32ace preview 2"></a>
+    <a href="https://github.com/vmalis/AirESP32ace"><img src="media/AirESP32ace-1.jpg" width="400" alt="AirESP32ace preview 1" title="AirESP32ace - Aviation, Satellite & Launch Radar"></a>
+    <a href="https://github.com/vmalis/AirESP32ace"><img src="media/AirESP32ace-2.jpg" width="400" alt="AirESP32ace preview 2" title="AirESP32ace - Aviation, Satellite & Launch Radar"></a>
   </details>
 - **Offline GPS Cycling Computer**: Handlebar mini-map based on ESP32-C3 rendering offline OpenStreetMap maps and GPX routes without internet. [bike-computer-32](https://github.com/lspr98/bike-computer-32)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-1.jpg" width="400" alt="bike-computer-32 preview 1"></a>
-    <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-2.jpg" width="400" alt="bike-computer-32 preview 2"></a>
+    <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-1.jpg" width="400" alt="bike-computer-32 preview 1" title="bike-computer-32 - Offline GPS Cycling Computer"></a>
+    <a href="https://github.com/lspr98/bike-computer-32"><img src="media/bike-computer-32-2.jpg" width="400" alt="bike-computer-32 preview 2" title="bike-computer-32 - Offline GPS Cycling Computer"></a>
   </details>
 - **Proximity-Based BLE Hunter & Phone Finder**: Visual and acoustic BLE device locator for Waveshare ESP32-S3 Touch AMOLED 1.8" with dotted RSSI tracking and dynamic parking-sensor audio clicks. [esp_ble_finder](https://github.com/khlebobul/esp_ble_finder)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/khlebobul/esp_ble_finder"><img src="media/esp_ble_finder.jpg" width="400" alt="esp_ble_finder preview"></a>
+    <a href="https://github.com/khlebobul/esp_ble_finder"><img src="media/esp_ble_finder.jpg" width="400" alt="esp_ble_finder preview" title="esp_ble_finder - Proximity-Based BLE Hunter & Phone Finder"></a>
   </details>
 - **Ham Radio Station Monitor**: HamClock-inspired dashboard for ESP32 Cheap Yellow Display tracking callsigns, propagation, and solar weather. [ESP32-CYD-HAM-Dashboard](https://github.com/HenrysCat/esp32-cyd-ham-dashboard)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/HenrysCat/esp32-cyd-ham-dashboard"><img src="media/ESP32-CYD-HAM-Dashboard.jpg" width="400" alt="ESP32-CYD-HAM-Dashboard preview"></a>
+    <a href="https://github.com/HenrysCat/esp32-cyd-ham-dashboard"><img src="media/ESP32-CYD-HAM-Dashboard.jpg" width="400" alt="ESP32-CYD-HAM-Dashboard preview" title="ESP32-CYD-HAM-Dashboard - Ham Radio Station Monitor"></a>
   </details>
 - **Circular Live ADS-B Aircraft Sonar Radar**: Standalone plane radar for ESP32-C3 and 1.28" round GC9A01 displays that fetches real-time ADS-B aircraft flight data from adsb.fi with adjustable range presets. [ESP32-Plane-Radar](https://github.com/MatixYo/ESP32-Plane-Radar)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/MatixYo/ESP32-Plane-Radar"><img src="media/ESP32-Plane-Radar.jpg" width="400" alt="ESP32-Plane-Radar preview"></a>
+    <a href="https://github.com/MatixYo/ESP32-Plane-Radar"><img src="media/ESP32-Plane-Radar.jpg" width="400" alt="ESP32-Plane-Radar preview" title="ESP32-Plane-Radar - Circular Live ADS-B Aircraft Sonar Radar"></a>
   </details>
 - **Aviation Vertical-Card Magnetic Compass Simulation**: Physics-based vertical-card aircraft compass simulation for M5Stack CoreS3 with tilt compensation, gyro sensor fusion, and realistic pendulous card dynamics. [esp32-vertical-card-compass](https://github.com/austinbirch/esp32-vertical-card-compass)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/austinbirch/esp32-vertical-card-compass"><img src="media/esp32-vertical-card-compass.jpg" width="400" alt="esp32-vertical-card-compass preview"></a>
+    <a href="https://github.com/austinbirch/esp32-vertical-card-compass"><img src="media/esp32-vertical-card-compass.jpg" width="400" alt="esp32-vertical-card-compass preview" title="esp32-vertical-card-compass - Aviation Vertical-Card Magnetic Compass Simulation"></a>
   </details>
 - **Multi-GNSS Offline GPS Navigator**: Standalone GPS navigation system with offline OpenStreetMap support (rendered tiles or vector maps), 3D perspective maps, and waypoint routing using LVGL. [IceNav-v3](https://github.com/jgauchia/IceNav-v3)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" width="400" alt="IceNav-v3 preview 1"></a>
-    <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-2.jpg" width="400" alt="IceNav-v3 preview 2"></a>
+    <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-1.jpg" width="400" alt="IceNav-v3 preview 1" title="IceNav-v3 - Multi-GNSS Offline GPS Navigator"></a>
+    <a href="https://github.com/jgauchia/IceNav-v3"><img src="media/IceNav-v3-2.jpg" width="400" alt="IceNav-v3 preview 2" title="IceNav-v3 - Multi-GNSS Offline GPS Navigator"></a>
   </details>
 - **Decentralized LoRa Mesh Communicator & GPS Telemetry**: Open-source, off-grid mesh communication firmware for ESP32 and LoRa radios providing encrypted long-range messaging, GPS telemetry, and packet routing without cell service. [meshtastic-firmware](https://github.com/meshtastic/firmware)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/meshtastic/firmware"><img src="media/meshtastic-firmware.jpg" width="400" alt="meshtastic-firmware preview"></a>
+    <a href="https://github.com/meshtastic/firmware"><img src="media/meshtastic-firmware.jpg" width="400" alt="meshtastic-firmware preview" title="meshtastic-firmware - Decentralized LoRa Mesh Communicator & GPS Telemetry"></a>
   </details>
 - **Smart Garmin-Mounted Bike Computer**: Sleek open-source bike computer for Waveshare AMOLED touchscreens featuring Apple Maps turn-by-turn navigation, workout syncing to Apple Health, and sensor connectivity. [open-bike-computer](https://github.com/seichris/open-bike-computer)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" width="400" alt="open-bike-computer preview 1"></a>
-    <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-2.jpg" width="400" alt="open-bike-computer preview 2"></a>
+    <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-1.jpg" width="400" alt="open-bike-computer preview 1" title="open-bike-computer - Smart Garmin-Mounted Bike Computer"></a>
+    <a href="https://github.com/seichris/open-bike-computer"><img src="media/open-bike-computer-2.jpg" width="400" alt="open-bike-computer preview 2" title="open-bike-computer - Smart Garmin-Mounted Bike Computer"></a>
   </details>
 - **BLE Smart Treadmill Speed & Cadence Sensor**: Optical treadmill speed, pace, and distance tracker for ESP32-C3 broadcasting standard BLE RSC telemetry to Garmin, Zwift, and sports watches with a self-hosted Wi-Fi web dashboard. [OpenRUNN](https://github.com/lpolasek/OpenRUNN)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/lpolasek/OpenRUNN"><img src="media/OpenRUNN-1.jpg" width="400" alt="OpenRUNN preview 1"></a>
-    <a href="https://github.com/lpolasek/OpenRUNN"><img src="media/OpenRUNN-2.jpg" width="400" alt="OpenRUNN preview 2"></a>
+    <a href="https://github.com/lpolasek/OpenRUNN"><img src="media/OpenRUNN-1.jpg" width="400" alt="OpenRUNN preview 1" title="OpenRUNN - BLE Smart Treadmill Speed & Cadence Sensor"></a>
+    <a href="https://github.com/lpolasek/OpenRUNN"><img src="media/OpenRUNN-2.jpg" width="400" alt="OpenRUNN preview 2" title="OpenRUNN - BLE Smart Treadmill Speed & Cadence Sensor"></a>
   </details>
 - **Standalone Martin M1 SSTV Transmitter**: Standalone Slow Scan Television (SSTV) transmitter firmware written in Rust for ESP32-C3 that encodes web-uploaded photos into precise 115s analog audio tones directly on GPIO without external codecs or DACs. [TinySSTV](https://github.com/JO3ALT/TinySSTV)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/JO3ALT/TinySSTV"><img src="media/TinySSTV.jpg" width="400" alt="TinySSTV preview"></a>
+    <a href="https://github.com/JO3ALT/TinySSTV"><img src="media/TinySSTV.jpg" width="400" alt="TinySSTV preview" title="TinySSTV - Standalone Martin M1 SSTV Transmitter"></a>
   </details>
 
 ## 🎨 Creative Drawing & Acoustic Synthesis
@@ -441,45 +441,45 @@ Dedicated offline maps and telemetry for adventures and tracking.
 Explore artistic expression and procedural sound generation.
 
 <p align="left">
-  <a href="https://github.com/TechTalkies/YouTube/tree/main/122_ColorPicker"><img src="media/122_ColorPicker.jpg" height="120" alt="122_ColorPicker"></a>
-  <a href="https://github.com/Sparkadium/Cheap-Yellow-MP3-Player"><img src="media/Cheap-Yellow-MP3-Player.jpg" height="120" alt="Cheap-Yellow-MP3-Player"></a>
-  <a href="https://github.com/seichris/esp32-spotify-remote"><img src="media/esp32-spotify-remote.jpg" height="120" alt="esp32-spotify-remote"></a>
-  <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-1.jpg" height="120" alt="M5Stack-Lyrebird"></a>
-  <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-1.jpg" height="120" alt="TinyDraw"></a>
+  <a href="https://github.com/TechTalkies/YouTube/tree/main/122_ColorPicker"><img src="media/122_ColorPicker.jpg" height="120" alt="122_ColorPicker" title="122_ColorPicker - Handheld Real-Life Optical Color Picker"></a>
+  <a href="https://github.com/Sparkadium/Cheap-Yellow-MP3-Player"><img src="media/Cheap-Yellow-MP3-Player.jpg" height="120" alt="Cheap-Yellow-MP3-Player" title="Cheap-Yellow-MP3-Player - Touchscreen Bluetooth MP3 Player"></a>
+  <a href="https://github.com/seichris/esp32-spotify-remote"><img src="media/esp32-spotify-remote.jpg" height="120" alt="esp32-spotify-remote" title="esp32-spotify-remote - Touchscreen Spotify Music Remote"></a>
+  <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-1.jpg" height="120" alt="M5Stack-Lyrebird" title="M5Stack-Lyrebird - Synthesized Bird Song Chorus"></a>
+  <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-1.jpg" height="120" alt="TinyDraw" title="TinyDraw - Touchscreen Sketching & Pixel Art Studio"></a>
 </p>
 
 - **Handheld Real-Life Optical Color Picker**: Portable color-sampling wand for Xiao ESP32-S3 with a TCS34725 sensor and 1.47" ST7789 display that scans physical objects to display live RGB/HEX values with non-volatile history saving. [122_ColorPicker](https://github.com/TechTalkies/YouTube/tree/main/122_ColorPicker)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/TechTalkies/YouTube/tree/main/122_ColorPicker"><img src="media/122_ColorPicker.jpg" width="400" alt="122_ColorPicker preview"></a>
+    <a href="https://github.com/TechTalkies/YouTube/tree/main/122_ColorPicker"><img src="media/122_ColorPicker.jpg" width="400" alt="122_ColorPicker preview" title="122_ColorPicker - Handheld Real-Life Optical Color Picker"></a>
   </details>
 - **Touchscreen Bluetooth MP3 Player**: iPod-Shuffle-inspired music player for Cheap Yellow Display (ESP32-2432S028) with Bluetooth A2DP audio streaming, touch album browser, and 8-band real-time spectrum visualizer. [Cheap-Yellow-MP3-Player](https://github.com/Sparkadium/Cheap-Yellow-MP3-Player)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/Sparkadium/Cheap-Yellow-MP3-Player"><img src="media/Cheap-Yellow-MP3-Player.jpg" width="400" alt="Cheap-Yellow-MP3-Player preview"></a>
+    <a href="https://github.com/Sparkadium/Cheap-Yellow-MP3-Player"><img src="media/Cheap-Yellow-MP3-Player.jpg" width="400" alt="Cheap-Yellow-MP3-Player preview" title="Cheap-Yellow-MP3-Player - Touchscreen Bluetooth MP3 Player"></a>
   </details>
 - **Touchscreen Spotify Music Remote**: Standalone Wi-Fi Spotify controller for the Waveshare ESP32-S3 Touch AMOLED 2.06" with playback controls, now-playing metadata, album artwork, and PKCE authorization. [esp32-spotify-remote](https://github.com/seichris/esp32-spotify-remote)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/seichris/esp32-spotify-remote"><img src="media/esp32-spotify-remote.jpg" width="400" alt="esp32-spotify-remote preview"></a>
+    <a href="https://github.com/seichris/esp32-spotify-remote"><img src="media/esp32-spotify-remote.jpg" width="400" alt="esp32-spotify-remote preview" title="esp32-spotify-remote - Touchscreen Spotify Music Remote"></a>
   </details>
 
 - **Synthesized Bird Song Chorus**: Pocket dawn chorus synthesizing 2423 songbird species natively on-device via acoustic physical modeling. [M5Stack-Lyrebird](https://github.com/sha5b/M5Stack-Lyrebird)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-1.jpg" width="400" alt="M5Stack-Lyrebird preview 1"></a>
-    <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-2.jpg" width="400" alt="M5Stack-Lyrebird preview 2"></a>
+    <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-1.jpg" width="400" alt="M5Stack-Lyrebird preview 1" title="M5Stack-Lyrebird - Synthesized Bird Song Chorus"></a>
+    <a href="https://github.com/sha5b/M5Stack-Lyrebird"><img src="media/M5Stack-Lyrebird-2.jpg" width="400" alt="M5Stack-Lyrebird preview 2" title="M5Stack-Lyrebird - Synthesized Bird Song Chorus"></a>
   </details>
 - **Touchscreen Sketching & Pixel Art Studio**: Pocket digital sketchbook with pressure support, layer management, and image export. [TinyDraw](https://github.com/aliceisjustplaying/tinydraw)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-1.jpg" width="350" alt="TinyDraw preview 1"></a>
-    <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-2.jpg" width="350" alt="TinyDraw preview 2"></a>
+    <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-1.jpg" width="350" alt="TinyDraw preview 1" title="TinyDraw - Touchscreen Sketching & Pixel Art Studio"></a>
+    <a href="https://github.com/aliceisjustplaying/tinydraw"><img src="media/TinyDraw-2.jpg" width="350" alt="TinyDraw preview 2" title="TinyDraw - Touchscreen Sketching & Pixel Art Studio"></a>
   </details>
 
 ## 🔐 Hardware Security & Private Data Vaults
@@ -487,21 +487,21 @@ Explore artistic expression and procedural sound generation.
 Protect secrets with offline dedicated hardware.
 
 <p align="left">
-  <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" height="120" alt="Midbar"></a>
-  <a href="https://github.com/PierreGode/WaveshareESP32C6LCD"><img src="media/WaveshareESP32C6LCD.jpg" height="120" alt="WaveshareESP32C6LCD"></a>
+  <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" height="120" alt="Midbar" title="Midbar - Air-Gapped Encrypted Password & Data Vault"></a>
+  <a href="https://github.com/PierreGode/WaveshareESP32C6LCD"><img src="media/WaveshareESP32C6LCD.jpg" height="120" alt="WaveshareESP32C6LCD" title="WaveshareESP32C6LCD - Wi-Fi 6 & BLE Proximity & Security Auditor"></a>
 </p>
 
 - **Air-Gapped Encrypted Password & Data Vault**: Advanced hardware data vault designed to maximize security against unauthorized access to personal data. [Midbar](https://github.com/Northstrix/Midbar)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" width="400" alt="Midbar preview"></a>
+    <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" width="400" alt="Midbar preview" title="Midbar - Air-Gapped Encrypted Password & Data Vault"></a>
   </details>
 - **Wi-Fi 6 & BLE Proximity & Security Auditor**: Compact wireless activity monitoring suite for Waveshare ESP32-C6 1.47" LCD with Bandwatch (promiscuous mode 802.11 traffic monitor) and BleWatch (BLE proximity meter and vendor vulnerability checker). [WaveshareESP32C6LCD](https://github.com/PierreGode/WaveshareESP32C6LCD)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/PierreGode/WaveshareESP32C6LCD"><img src="media/WaveshareESP32C6LCD.jpg" width="400" alt="WaveshareESP32C6LCD preview"></a>
+    <a href="https://github.com/PierreGode/WaveshareESP32C6LCD"><img src="media/WaveshareESP32C6LCD.jpg" width="400" alt="WaveshareESP32C6LCD preview" title="WaveshareESP32C6LCD - Wi-Fi 6 & BLE Proximity & Security Auditor"></a>
   </details>
 
 ## 💡 Lighting, LED Controllers & Ambient FX
@@ -509,14 +509,14 @@ Protect secrets with offline dedicated hardware.
 Build custom addressable LED strip controllers, lighting rigs, and ambient visual effects.
 
 <p align="left">
-  <a href="https://github.com/Northstrix/Lantern"><img src="media/The-Lantern-Project.jpg" height="120" alt="The Lantern Project"></a>
+  <a href="https://github.com/Northstrix/Lantern"><img src="media/The-Lantern-Project.jpg" height="120" alt="The Lantern Project" title="The Lantern Project - Wireless Addressable LED Strip Controller"></a>
 </p>
 
 - **Wireless Addressable LED Strip Controller**: Lighting controller using an ESP32 with Wii Nunchuk as a wireless handheld remote and an ESP8266 as a receiver to drive addressable RGB strip featuring 32 modes, 14 lock screens, and pairing security. [The Lantern Project](https://github.com/Northstrix/Lantern)
   <details>
     <summary>🖼️ Preview</summary>
     <br>
-    <a href="https://github.com/Northstrix/Lantern"><img src="media/The-Lantern-Project.jpg" width="400" alt="The Lantern Project preview"></a>
+    <a href="https://github.com/Northstrix/Lantern"><img src="media/The-Lantern-Project.jpg" width="400" alt="The Lantern Project preview" title="The Lantern Project - Wireless Addressable LED Strip Controller"></a>
   </details>
 
 # Other Awesome Lists
