@@ -232,6 +232,7 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
   <a href="https://github.com/tobymarks/esp32-ai-monitor"><img src="media/esp32-ai-monitor-1.jpg" height="120" alt="esp32-ai-monitor" title="esp32-ai-monitor - Desktop AI Usage Limits & Quota Monitor"></a>
   <a href="https://github.com/mso96/ESP32-Codex-agent-device"><img src="media/ESP32-Codex-agent-device.jpg" height="120" alt="ESP32-Codex-agent-device" title="ESP32-Codex-agent-device - Physical AI Coding Agent Status Device"></a>
   <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" height="120" alt="familybox" title="familybox - Family Photo & Voice Messenger for Kids"></a>
+  <a href="https://github.com/shinjiyu/onlyclaws-esp"><img src="media/onlyclaws-esp-1.jpg" height="120" alt="onlyclaws-esp" title="onlyclaws-esp - AI Agent ESP32 Lua Runtime & Peripheral Framework"></a>
   <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-2.jpg" height="120" alt="Tsixom-Watch-Buddy" title="Tsixom-Watch-Buddy - AI-Powered Smartwatch"></a>
   <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-1.jpg" height="120" alt="xiaozhi-esp32" title="xiaozhi-esp32 - MCP-Based Multimodal AI Chatbot"></a>
 </p>
@@ -274,6 +275,13 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
     <br>
     <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" width="300" alt="familybox preview 1" title="familybox - Family Photo & Voice Messenger for Kids"></a>
     <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-2.jpg" width="400" alt="familybox preview 2" title="familybox - Family Photo & Voice Messenger for Kids"></a>
+  </details>
+- **AI Agent ESP32 Lua Runtime & Peripheral Framework**: Agent-controlled firmware runtime turning ESP32-S3 boards into peripherals programmed via Lua over HTTP, featuring screen drivers (RLCD/e-paper), audio, robot arms, TFLite models, and a FastAPI control plane. [onlyclaws-esp](https://github.com/shinjiyu/onlyclaws-esp)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/shinjiyu/onlyclaws-esp"><img src="media/onlyclaws-esp-1.jpg" width="400" alt="onlyclaws-esp preview 1" title="onlyclaws-esp - AI Agent ESP32 Lua Runtime & Peripheral Framework"></a>
+    <a href="https://github.com/shinjiyu/onlyclaws-esp"><img src="media/onlyclaws-esp-2.jpg" width="400" alt="onlyclaws-esp preview 2" title="onlyclaws-esp - AI Agent ESP32 Lua Runtime & Peripheral Framework"></a>
   </details>
 - **AI-Powered Smartwatch**: Wearable companion combining voice interaction, cloud AI integration, a custom graphics engine, and power management. [Tsixom-Watch-Buddy](https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled)
   <details>
