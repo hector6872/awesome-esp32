@@ -305,6 +305,7 @@ Build pocket game consoles and relive vintage computers.
 <p align="left">
   <a href="https://github.com/rhys101/Beebem-ESP32-S3"><img src="media/Beebem-ESP32-S3-1.jpg" height="120" alt="Beebem-ESP32-S3" title="Beebem-ESP32-S3 - Classic 8-Bit Computer Emulation"></a>
   <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-1.jpg" height="120" alt="gameos" title="gameos - Bare-Metal Handheld Game OS"></a>
+  <a href="https://github.com/iamankushpandit/Gume"><img src="media/Gume-1.jpg" height="120" alt="Gume" title="Gume - 40-Game Educational Handheld Console"></a>
   <a href="https://github.com/MikeWilson/infinite-golf"><img src="media/infinite-golf-1.jpg" height="120" alt="infinite-golf" title="infinite-golf - Procedural Mini-Golf Game"></a>
 </p>
 
@@ -321,6 +322,13 @@ Build pocket game consoles and relive vintage computers.
     <br>
     <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-1.jpg" width="350" alt="gameos preview 1" title="gameos - Bare-Metal Handheld Game OS"></a>
     <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-2.jpg" width="350" alt="gameos preview 2" title="gameos - Bare-Metal Handheld Game OS"></a>
+  </details>
+- **40-Game Educational Handheld Console (Braino!)**: Open-source educational gaming firmware for ESP32 Cheap Yellow Display (CYD) packing 40 offline games, two-player BLE multiplayer, and 3D printable enclosures with zero telemetry. [Gume](https://github.com/iamankushpandit/Gume)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/iamankushpandit/Gume"><img src="media/Gume-1.jpg" width="400" alt="Gume preview 1" title="Gume - 40-Game Educational Handheld Console"></a>
+    <a href="https://github.com/iamankushpandit/Gume"><img src="media/Gume-2.jpg" width="350" alt="Gume preview 2" title="Gume - 40-Game Educational Handheld Console"></a>
   </details>
 - **Procedural Mini-Golf Game**: Procedurally generated mini-golf game with touch aiming and physical swing motion controls. [infinite-golf](https://github.com/MikeWilson/infinite-golf)
   <details>
