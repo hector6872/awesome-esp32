@@ -510,11 +510,18 @@ Explore artistic expression and procedural sound generation.
 Protect secrets with offline dedicated hardware.
 
 <p align="left">
+  <a href="https://github.com/skizzophrenic/Cardputer-CSI-Human-Detector"><img src="media/Cardputer-CSI-Human-Detector-1.jpg" height="120" alt="Cardputer-CSI-Human-Detector" title="Cardputer-CSI-Human-Detector - Wi-Fi CSI Handheld Human Radar"></a>
   <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" height="120" alt="Midbar" title="Midbar - Air-Gapped Encrypted Password & Data Vault"></a>
   <a href="https://github.com/skizzophrenic/SquachWatch-CYD"><img src="media/SquachWatch-CYD-1.jpg" height="120" alt="SquachWatch-CYD" title="SquachWatch-CYD - Gamified Surveillance Device Detector"></a>
   <a href="https://github.com/PierreGode/WaveshareESP32C6LCD"><img src="media/WaveshareESP32C6LCD.jpg" height="120" alt="WaveshareESP32C6LCD" title="WaveshareESP32C6LCD - Wi-Fi 6 & BLE Proximity & Security Auditor"></a>
 </p>
 
+- **Wi-Fi CSI Handheld Human Radar**: Handheld presence and motion detector for M5Stack Cardputer ADV using Wi-Fi Channel State Information (CSI) to detect human movement through walls with a dual-screen PPI radar scope and live metrics. [Cardputer-CSI-Human-Detector](https://github.com/skizzophrenic/Cardputer-CSI-Human-Detector)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/skizzophrenic/Cardputer-CSI-Human-Detector"><img src="media/Cardputer-CSI-Human-Detector-1.jpg" width="400" alt="Cardputer-CSI-Human-Detector preview" title="Cardputer-CSI-Human-Detector - Wi-Fi CSI Handheld Human Radar"></a>
+  </details>
 - **Air-Gapped Encrypted Password & Data Vault**: Advanced hardware data vault designed to maximize security against unauthorized access to personal data. [Midbar](https://github.com/Northstrix/Midbar)
   <details>
     <summary>🖼️ Preview</summary>
