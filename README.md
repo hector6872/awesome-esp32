@@ -511,6 +511,7 @@ Protect secrets with offline dedicated hardware.
 
 <p align="left">
   <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" height="120" alt="Midbar" title="Midbar - Air-Gapped Encrypted Password & Data Vault"></a>
+  <a href="https://github.com/skizzophrenic/SquachWatch-CYD"><img src="media/SquachWatch-CYD-1.jpg" height="120" alt="SquachWatch-CYD" title="SquachWatch-CYD - Gamified Surveillance Device Detector"></a>
   <a href="https://github.com/PierreGode/WaveshareESP32C6LCD"><img src="media/WaveshareESP32C6LCD.jpg" height="120" alt="WaveshareESP32C6LCD" title="WaveshareESP32C6LCD - Wi-Fi 6 & BLE Proximity & Security Auditor"></a>
 </p>
 
@@ -519,6 +520,13 @@ Protect secrets with offline dedicated hardware.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/Northstrix/Midbar"><img src="media/Midbar.jpg" width="400" alt="Midbar preview" title="Midbar - Air-Gapped Encrypted Password & Data Vault"></a>
+  </details>
+- **Gamified Surveillance Device Detector**: Vaporwave-styled privacy monitor for the Cheap Yellow Display (ESP32-2432S028R) sniffing Wi-Fi and Bluetooth signatures of Flock ALPR cameras, body cams, smart glasses, card skimmers, AirTags, and drones. [SquachWatch-CYD](https://github.com/skizzophrenic/SquachWatch-CYD)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/skizzophrenic/SquachWatch-CYD"><img src="media/SquachWatch-CYD-1.jpg" width="400" alt="SquachWatch-CYD preview 1" title="SquachWatch-CYD - Gamified Surveillance Device Detector"></a>
+    <a href="https://github.com/skizzophrenic/SquachWatch-CYD"><img src="media/SquachWatch-CYD-2.jpg" width="400" alt="SquachWatch-CYD preview 2" title="SquachWatch-CYD - Gamified Surveillance Device Detector"></a>
   </details>
 - **Wi-Fi 6 & BLE Proximity & Security Auditor**: Compact wireless activity monitoring suite for Waveshare ESP32-C6 1.47" LCD with Bandwatch (promiscuous mode 802.11 traffic monitor) and BleWatch (BLE proximity meter and vendor vulnerability checker). [WaveshareESP32C6LCD](https://github.com/PierreGode/WaveshareESP32C6LCD)
   <details>
