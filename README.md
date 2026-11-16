@@ -335,6 +335,7 @@ Build pocket game consoles and relive vintage computers.
 <p align="left">
   <a href="https://github.com/rhys101/Beebem-ESP32-S3"><img src="media/Beebem-ESP32-S3-1.jpg" height="120" alt="Beebem-ESP32-S3" title="Beebem-ESP32-S3 - Classic 8-Bit Computer Emulation"></a>
   <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-1.jpg" height="120" alt="gameos" title="gameos - Bare-Metal Handheld Game OS"></a>
+  <a href="https://github.com/zhing2006/esp-gbx"><img src="media/esp-gbx-1.jpg" height="120" alt="esp-gbx" title="esp-gbx - Scratch-Built GB / GBC / GBA Emulator with RISC-V JIT"></a>
   <a href="https://github.com/iamankushpandit/Gume"><img src="media/Gume-1.jpg" height="120" alt="Gume" title="Gume - 40-Game Educational Handheld Console"></a>
   <a href="https://github.com/MikeWilson/infinite-golf"><img src="media/infinite-golf-1.jpg" height="120" alt="infinite-golf" title="infinite-golf - Procedural Mini-Golf Game"></a>
 </p>
@@ -352,6 +353,13 @@ Build pocket game consoles and relive vintage computers.
     <br>
     <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-1.jpg" width="350" alt="gameos preview 1" title="gameos - Bare-Metal Handheld Game OS"></a>
     <a href="https://github.com/MikeWilson/esp32-gameos"><img src="media/gameos-2.jpg" width="350" alt="gameos preview 2" title="gameos - Bare-Metal Handheld Game OS"></a>
+  </details>
+- **Scratch-Built GB / GBC / GBA Emulator with RISC-V JIT**: High-performance Game Boy, Game Boy Color, and Game Boy Advance emulator written from scratch from hardware docs for ESP32-P4, ESP32-S31, and ESP32-C5, featuring SM83/ARM7TDMI-to-RISC-V dynamic recompilation (JIT), touch controls, and SD card direct loading. [esp-gbx](https://github.com/zhing2006/esp-gbx)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/zhing2006/esp-gbx"><img src="media/esp-gbx-1.jpg" width="400" alt="esp-gbx preview 1" title="esp-gbx - Scratch-Built GB / GBC / GBA Emulator with RISC-V JIT"></a>
+    <a href="https://github.com/zhing2006/esp-gbx"><img src="media/esp-gbx-2.jpg" width="400" alt="esp-gbx preview 2" title="esp-gbx - Scratch-Built GB / GBC / GBA Emulator with RISC-V JIT"></a>
   </details>
 - **40-Game Educational Handheld Console (Braino!)**: Open-source educational gaming firmware for ESP32 Cheap Yellow Display (CYD) packing 40 offline games, two-player BLE multiplayer, and 3D printable enclosures with zero telemetry. [Gume](https://github.com/iamankushpandit/Gume)
   <details>
