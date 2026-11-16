@@ -250,6 +250,7 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
   <a href="https://github.com/mso96/ESP32-Codex-agent-device"><img src="media/ESP32-Codex-agent-device.jpg" height="120" alt="ESP32-Codex-agent-device" title="ESP32-Codex-agent-device - Physical AI Coding Agent Status Device"></a>
   <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" height="120" alt="familybox" title="familybox - Family Photo & Voice Messenger for Kids"></a>
   <a href="https://github.com/shinjiyu/onlyclaws-esp"><img src="media/onlyclaws-esp-1.jpg" height="120" alt="onlyclaws-esp" title="onlyclaws-esp - AI Agent ESP32 Lua Runtime & Peripheral Framework"></a>
+  <a href="https://github.com/voicute/onnx-wakeword"><img src="media/onnx-wakeword-1.jpg" height="120" alt="onnx-wakeword" title="onnx-wakeword - Offline Wake Word & Keyword Spotting Inference Engine"></a>
   <a href="https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled"><img src="media/Tsixom-Watch-Buddy-2.jpg" height="120" alt="Tsixom-Watch-Buddy" title="Tsixom-Watch-Buddy - AI-Powered Smartwatch"></a>
   <a href="https://github.com/78/xiaozhi-esp32"><img src="media/xiaozhi-esp32-1.jpg" height="120" alt="xiaozhi-esp32" title="xiaozhi-esp32 - MCP-Based Multimodal AI Chatbot"></a>
 </p>
@@ -305,6 +306,12 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
     <br>
     <a href="https://github.com/shinjiyu/onlyclaws-esp"><img src="media/onlyclaws-esp-1.jpg" width="400" alt="onlyclaws-esp preview 1" title="onlyclaws-esp - AI Agent ESP32 Lua Runtime & Peripheral Framework"></a>
     <a href="https://github.com/shinjiyu/onlyclaws-esp"><img src="media/onlyclaws-esp-2.jpg" width="400" alt="onlyclaws-esp preview 2" title="onlyclaws-esp - AI Agent ESP32 Lua Runtime & Peripheral Framework"></a>
+  </details>
+- **Offline Wake Word & Keyword Spotting Inference Engine**: Ultra-compact (<130 KB, 25K parameters) offline keyword spotting and custom wake word inference engine using Causal TCN and INT8 TFLite on ESP32-S3 / ESP32-P4, with multi-keyword, multilingual, and Wyoming protocol support. [onnx-wakeword](https://github.com/voicute/onnx-wakeword)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/voicute/onnx-wakeword"><img src="media/onnx-wakeword-1.jpg" width="400" alt="onnx-wakeword preview 1" title="onnx-wakeword - Offline Wake Word & Keyword Spotting Inference Engine"></a>
   </details>
 - **AI-Powered Smartwatch**: Wearable companion combining voice interaction, cloud AI integration, a custom graphics engine, and power management. [Tsixom-Watch-Buddy](https://github.com/Tsixom0/Tsixom-Watch-Buddy-for-waveshare-esp32-s3-2.06-touch-amoled)
   <details>
