@@ -238,6 +238,7 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
   <a href="https://github.com/seichris/codex-microphone"><img src="media/codex-microphone-1.jpg" height="120" alt="codex-microphone" title="codex-microphone - Desktop AI Task Dictation Microphone & Companion"></a>
   <a href="https://github.com/jeonghopark/esp32-ai"><img src="media/esp32-ai.jpg" height="120" alt="esp32-ai" title="esp32-ai - On-Device Neural Poem Generator (TinyPoems)"></a>
   <a href="https://github.com/tobymarks/esp32-ai-monitor"><img src="media/esp32-ai-monitor-1.jpg" height="120" alt="esp32-ai-monitor" title="esp32-ai-monitor - Desktop AI Usage Limits & Quota Monitor"></a>
+  <a href="https://github.com/raullenchai/esp32-thinks"><img src="media/esp32-thinks-1.jpg" height="120" alt="esp32-thinks" title="esp32-thinks - Multi-Model Personal AI Voice Assistant"></a>
   <a href="https://github.com/mso96/ESP32-Codex-agent-device"><img src="media/ESP32-Codex-agent-device.jpg" height="120" alt="ESP32-Codex-agent-device" title="ESP32-Codex-agent-device - Physical AI Coding Agent Status Device"></a>
   <a href="https://github.com/F86Pilot/familybox"><img src="media/familybox-1.jpg" height="120" alt="familybox" title="familybox - Family Photo & Voice Messenger for Kids"></a>
   <a href="https://github.com/shinjiyu/onlyclaws-esp"><img src="media/onlyclaws-esp-1.jpg" height="120" alt="onlyclaws-esp" title="onlyclaws-esp - AI Agent ESP32 Lua Runtime & Peripheral Framework"></a>
@@ -270,6 +271,12 @@ Harness on-device audio and cloud intelligence for speech-driven hardware.
     <br>
     <a href="https://github.com/tobymarks/esp32-ai-monitor"><img src="media/esp32-ai-monitor-1.jpg" width="400" alt="esp32-ai-monitor preview 1" title="esp32-ai-monitor - Desktop AI Usage Limits & Quota Monitor"></a>
     <a href="https://github.com/tobymarks/esp32-ai-monitor"><img src="media/esp32-ai-monitor-2.jpg" width="400" alt="esp32-ai-monitor preview 2" title="esp32-ai-monitor - Desktop AI Usage Limits & Quota Monitor"></a>
+  </details>
+- **Multi-Model Personal AI Voice Assistant**: Personal AI voice companion on ESP32-S3 (SenseCAP Watcher) built on Meta's Muse Gadget SDK, supporting on-chip wake words ("Hi, ESP"), knob barge-in, streaming sentence-level TTS synthesis, and mix-and-match OpenAI-compatible STT/LLM/TTS endpoints. [esp32-thinks](https://github.com/raullenchai/esp32-thinks)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/raullenchai/esp32-thinks"><img src="media/esp32-thinks-1.jpg" width="400" alt="esp32-thinks preview 1" title="esp32-thinks - Multi-Model Personal AI Voice Assistant"></a>
   </details>
 - **Physical AI Coding Agent Status Device**: Hardware status monitor and procedural avatar for Waveshare ESP32-S3 Touch AMOLED 1.8" that mirrors the lifecycle and token telemetry of local Codex AI tasks. [ESP32-Codex-agent-device](https://github.com/mso96/ESP32-Codex-agent-device)
   <details>
