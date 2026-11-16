@@ -37,10 +37,11 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
 
 <p align="left">
   <a href="https://github.com/s-iwaki-d/ESP32Drop"><img src="media/ESP32Drop.jpg" height="120" alt="ESP32Drop" title="ESP32Drop - AirDrop Protocol Implementation (AWDL)"></a>
+  <a href="https://github.com/onehumanbeing/esp32-iphone-agent"><img src="media/esp32-iphone-agent.jpg" height="120" alt="esp32-iphone-agent" title="esp32-iphone-agent - AI Vision Agent iPhone Controller via USB HID"></a>
+  <a href="https://github.com/nruizneiman/IRis"><img src="media/IRis-1.jpg" height="120" alt="IRis" title="IRis - Programmable Universal Infrared Remote"></a>
   <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" height="120" alt="m5stickc-plus-presenter" title="m5stickc-plus-presenter - Slide Clicker Remote for Talks & Lectures"></a>
   <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" height="120" alt="The-Badge" title="The-Badge - Wearable Round AMOLED Air Mouse & Productivity Badge"></a>
   <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-1.jpg" height="120" alt="unidex" title="unidex - Pocket E-Paper OS & Productivity Companion"></a>
-  <a href="https://github.com/onehumanbeing/esp32-iphone-agent"><img src="media/esp32-iphone-agent.jpg" height="120" alt="esp32-iphone-agent" title="esp32-iphone-agent - AI Vision Agent iPhone Controller via USB HID"></a>
 </p>
 
 - **AirDrop Protocol Implementation (AWDL)**: Native Apple Wireless Direct Link (AWDL) and AirDrop-compatible library for ESP32-S3 to transfer photos and files directly to and from iPhones and Macs without Wi-Fi routers or pairing. [ESP32Drop](https://github.com/s-iwaki-d/ESP32Drop)
@@ -48,6 +49,19 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/s-iwaki-d/ESP32Drop"><img src="media/ESP32Drop.jpg" width="400" alt="ESP32Drop preview" title="ESP32Drop - AirDrop Protocol Implementation (AWDL)"></a>
+  </details>
+- **AI Vision Agent iPhone Controller via USB HID**: XIAO ESP32-S3 acts as a USB mouse/keyboard so any OpenAI-compatible vision model can operate a stock iPhone seen through AirPlay mirroring, with no jailbreak and no app on the phone. [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/onehumanbeing/esp32-iphone-agent"><img src="media/esp32-iphone-agent.jpg" width="400" alt="esp32-iphone-agent preview" title="esp32-iphone-agent - AI Vision Agent iPhone Controller via USB HID"></a>
+  </details>
+- **Programmable Universal Infrared Remote**: DIY universal IR remote on ESP32-WROOM-32 with a 1.3" OLED, five tactile buttons, 18650 battery, and microSD supporting IR learning, raw capture, and direct replay of thousands of Flipper-IRDB remotes. [IRis](https://github.com/nruizneiman/IRis)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/nruizneiman/IRis"><img src="media/IRis-1.jpg" width="400" alt="IRis preview 1" title="IRis - Programmable Universal Infrared Remote"></a>
+    <a href="https://github.com/nruizneiman/IRis"><img src="media/IRis-2.jpg" width="400" alt="IRis preview 2" title="IRis - Programmable Universal Infrared Remote"></a>
   </details>
 - **Slide Clicker Remote for Talks & Lectures**: Use an M5Stick as a Bluetooth BLE keyboard remote to advance slides on Google Slides, PowerPoint, or Keynote with on-screen button guides and battery status. [m5stickc-plus-presenter](https://github.com/F86Pilot/m5stickc-plus-presenter)
   <details>
@@ -68,12 +82,6 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
     <br>
     <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-1.jpg" width="400" alt="unidex preview 1" title="unidex - Pocket E-Paper OS & Productivity Companion"></a>
     <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-2.jpg" width="400" alt="unidex preview 2" title="unidex - Pocket E-Paper OS & Productivity Companion"></a>
-  </details>
-- **AI Vision Agent iPhone Controller via USB HID**: XIAO ESP32-S3 acts as a USB mouse/keyboard so any OpenAI-compatible vision model can operate a stock iPhone seen through AirPlay mirroring, with no jailbreak and no app on the phone. [esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
-  <details>
-    <summary>🖼️ Preview</summary>
-    <br>
-    <a href="https://github.com/onehumanbeing/esp32-iphone-agent"><img src="media/esp32-iphone-agent.jpg" width="400" alt="esp32-iphone-agent preview" title="esp32-iphone-agent - AI Vision Agent iPhone Controller via USB HID"></a>
   </details>
 
 ## 🐱 Virtual Pets, Fidgets & Interactive Toys
