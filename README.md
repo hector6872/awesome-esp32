@@ -131,6 +131,7 @@ Build glanceable screens that live on your desk without causing screen fatigue.
   <a href="https://github.com/iammartinj/bird-feeder-esp32"><img src="media/bird-feeder-esp32-1.jpg" height="120" alt="bird-feeder-esp32" title="bird-feeder-esp32 - Simulated Garden Bird Feeder & Living Nature Window"></a>
   <a href="https://github.com/Meandmybadself/E-Ink-Countdown-Screen"><img src="media/E-Ink-Countdown-Screen.jpg" height="120" alt="E-Ink-Countdown-Screen" title="E-Ink-Countdown-Screen - Battery-Efficient E-Ink Countdown Display"></a>
   <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-2.jpg" height="120" alt="esp_busy_tag" title="esp_busy_tag - Desktop Availability & Busy Tag Indicator"></a>
+  <a href="https://github.com/fkhadra/esp-notify"><img src="media/esp-notify-1.jpg" height="120" alt="esp-notify" title="esp-notify - Desk Service Status Monitor & Push Notifier"></a>
   <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-1.jpg" height="120" alt="esp_pomodoro_timer" title="esp_pomodoro_timer - Orientation-Controlled Cube Pomodoro Timer"></a>
   <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" height="120" alt="inksight" title="inksight - Calm E-Ink Desk Dashboard"></a>
   <a href="https://github.com/VolosR/meterClock"><img src="media/meterClock.jpg" height="120" alt="meterClock" title="meterClock - Electricity-Meter-Themed Desk Clock"></a>
@@ -171,6 +172,13 @@ Build glanceable screens that live on your desk without causing screen fatigue.
     <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-1.jpg" width="400" alt="esp_busy_tag preview 1" title="esp_busy_tag - Desktop Availability & Busy Tag Indicator"></a>
     <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-2.jpg" width="400" alt="esp_busy_tag preview 2" title="esp_busy_tag - Desktop Availability & Busy Tag Indicator"></a>
     <a href="https://github.com/khlebobul/esp_busy_tag"><img src="media/esp_busy_tag-3.jpg" width="400" alt="esp_busy_tag preview 3" title="esp_busy_tag - Desktop Availability & Busy Tag Indicator"></a>
+  </details>
+- **Desk Service Status Monitor & Push Notifier**: Rust-powered desk monitor for Waveshare ESP32-C6-LCD-1.47 polling status pages (GitHub, Cloudflare, Anthropic, OpenAI, Tailscale) with severity RGB LED alerts and an HTTP push notification receiver. [esp-notify](https://github.com/fkhadra/esp-notify)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/fkhadra/esp-notify"><img src="media/esp-notify-1.jpg" width="400" alt="esp-notify preview 1" title="esp-notify - Desk Service Status Monitor & Push Notifier"></a>
+    <a href="https://github.com/fkhadra/esp-notify"><img src="media/esp-notify-2.jpg" width="400" alt="esp-notify preview 2" title="esp-notify - Desk Service Status Monitor & Push Notifier"></a>
   </details>
 - **Orientation-Controlled Cube Pomodoro Timer**: Desk productivity timer for Waveshare ESP32-S3 Touch AMOLED 1.8" using a QMI8658 accelerometer to select 5, 10, 30, or 60-minute focus durations by standing the device on each side edge. [esp_pomodoro_timer](https://github.com/khlebobul/esp_pomodoro_timer)
   <details>
