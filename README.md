@@ -41,6 +41,7 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
   <a href="https://github.com/nruizneiman/IRis"><img src="media/IRis-1.jpg" height="120" alt="IRis" title="IRis - Programmable Universal Infrared Remote"></a>
   <a href="https://github.com/F86Pilot/m5stickc-plus-presenter"><img src="media/m5stickc-plus-presenter.jpg" height="120" alt="m5stickc-plus-presenter" title="m5stickc-plus-presenter - Slide Clicker Remote for Talks & Lectures"></a>
   <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" height="120" alt="The-Badge" title="The-Badge - Wearable Round AMOLED Air Mouse & Productivity Badge"></a>
+  <a href="https://github.com/catorendal-a11y/tessera-deck"><img src="media/tessera-deck-1.jpg" height="120" alt="tessera-deck" title="tessera-deck - 7-Inch ESP32-P4 DIY Macro & Stream Deck for Windows"></a>
   <a href="https://github.com/Forrest404/unidex"><img src="media/unidex-1.jpg" height="120" alt="unidex" title="unidex - Pocket E-Paper OS & Productivity Companion"></a>
 </p>
 
@@ -75,6 +76,13 @@ Turn a pocket-sized development board into a reliable presentation clicker or in
     <br>
     <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-1.jpg" width="400" alt="The-Badge preview 1" title="The-Badge - Wearable Round AMOLED Air Mouse & Productivity Badge"></a>
     <a href="https://github.com/curisama/The-Badge"><img src="media/The-Badge-2.jpg" width="400" alt="The-Badge preview 2" title="The-Badge - Wearable Round AMOLED Air Mouse & Productivity Badge"></a>
+  </details>
+- **7-Inch ESP32-P4 DIY Macro & Stream Deck for Windows**: Open-source Stream Deck alternative using 7" ESP32-P4 touchscreens (GUITION JC1060P470C, CrowPanel Advance 7.0) with 18 macro touch keys, PC telemetry gauges, Claude/Codex AI agent approvals, audio mixer, and a drag-and-drop Windows editor. [tessera-deck](https://github.com/catorendal-a11y/tessera-deck)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/catorendal-a11y/tessera-deck"><img src="media/tessera-deck-1.jpg" width="400" alt="tessera-deck preview 1" title="tessera-deck - 7-Inch ESP32-P4 DIY Macro & Stream Deck for Windows"></a>
+    <a href="https://github.com/catorendal-a11y/tessera-deck"><img src="media/tessera-deck-2.jpg" width="400" alt="tessera-deck preview 2" title="tessera-deck - 7-Inch ESP32-P4 DIY Macro & Stream Deck for Windows"></a>
   </details>
 - **Pocket E-Paper OS & Productivity Companion**: Multi-feature pocket e-ink OS for Waveshare ESP32-S3 1.54" featuring timetable countdowns with calendar sync, voice notes to Obsidian, peer-to-peer interactive pets, and digital name badges. [unidex](https://github.com/Forrest404/unidex)
   <details>
