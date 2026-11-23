@@ -151,6 +151,7 @@ Build glanceable screens that live on your desk without causing screen fatigue.
   <a href="https://github.com/khlebobul/esp_pomodoro_timer"><img src="media/esp_pomodoro_timer-1.jpg" height="120" alt="esp_pomodoro_timer" title="esp_pomodoro_timer - Orientation-Controlled Cube Pomodoro Timer"></a>
   <a href="https://github.com/datascale-ai/inksight"><img src="media/inksight-1.jpg" height="120" alt="inksight" title="inksight - Calm E-Ink Desk Dashboard"></a>
   <a href="https://github.com/VolosR/meterClock"><img src="media/meterClock.jpg" height="120" alt="meterClock" title="meterClock - Electricity-Meter-Themed Desk Clock"></a>
+  <a href="https://github.com/melihkoray/phosphor"><img src="media/phosphor-1.jpg" height="120" alt="phosphor" title="phosphor - Retro VFD / 8-Bit Multi-Theme Desk Companion"></a>
   <a href="https://github.com/AideaHandesen-dvs/tempmeter"><img src="media/tempmeter.jpg" height="120" alt="tempmeter" title="tempmeter - Minimalist Room Thermometer & Web Sensor"></a>
   <a href="https://github.com/LJ545/TravelFrame"><img src="media/TravelFrame.jpg" height="120" alt="TravelFrame" title="TravelFrame - Self-Hosted E-Ink Travel Milestones Frame"></a>
 </p>
@@ -215,6 +216,13 @@ Build glanceable screens that live on your desk without causing screen fatigue.
     <summary>🖼️ Preview</summary>
     <br>
     <a href="https://github.com/VolosR/meterClock"><img src="media/meterClock.jpg" width="400" alt="meterClock preview" title="meterClock - Electricity-Meter-Themed Desk Clock"></a>
+  </details>
+- **Retro VFD / 8-Bit Multi-Theme Desk Companion**: Nostalgic desk gadget for Waveshare ESP32-S3-Touch-LCD-3.49 (640×172 bar display) rendering clock, weather, internet radio, timers, ambient pixel scenes, and table-knock interactive games across VFD, C64, Amiga, and Atari 2600 visual themes. [phosphor](https://github.com/melihkoray/phosphor)
+  <details>
+    <summary>🖼️ Preview</summary>
+    <br>
+    <a href="https://github.com/melihkoray/phosphor"><img src="media/phosphor-1.jpg" width="400" alt="phosphor preview 1" title="phosphor - Retro VFD / 8-Bit Multi-Theme Desk Companion"></a>
+    <a href="https://github.com/melihkoray/phosphor"><img src="media/phosphor-2.jpg" width="400" alt="phosphor preview 2" title="phosphor - Retro VFD / 8-Bit Multi-Theme Desk Companion"></a>
   </details>
 - **Minimalist Room Thermometer & Web Sensor**: Low-cost ambient room monitor for ESP32-C3 SuperMini with BME280 sensor, 4-digit 7-segment display, captive portal Wi-Fi setup, and local HTTP/JSON endpoints. [tempmeter](https://github.com/AideaHandesen-dvs/tempmeter)
   <details>
